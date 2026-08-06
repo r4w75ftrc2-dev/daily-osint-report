@@ -73,6 +73,58 @@ def create_report(articles):
 """
     )
 
+        # ==========================
+    # ANALYST NOTE
+    # ==========================
+
+    report.append(
+        "\n## ANALYST NOTE\n"
+    )
+
+
+    notes = []
+
+
+    if high_count > 0:
+
+        notes.append(
+            "Detekovány události s vysokou úrovní rizika. Doporučena zvýšená pozornost."
+        )
+
+
+    if uav_count > 0:
+
+        notes.append(
+            f"V evropském prostoru zaznamenáno {uav_count} UAV událostí. Události vyžadují sledování z pohledu ochrany kritické infrastruktury a letištní bezpečnosti."
+        )
+
+
+    if aviation_count > 10:
+
+        notes.append(
+            "Zvýšený počet leteckých bezpečnostních událostí může indikovat potřebu detailnějšího vyhodnocení."
+        )
+
+
+    if czech_count > 0:
+
+        notes.append(
+            "Zaznamenány události vztahující se k České republice."
+        )
+
+
+    if not notes:
+
+        notes.append(
+            "Bez významných indikátorů zvýšeného bezpečnostního rizika."
+        )
+
+
+    for note in notes:
+
+        report.append(
+            f"- {note}\n"
+        )
 
     # Nejvýznamnější událost
 
