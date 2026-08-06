@@ -15,7 +15,7 @@ def load_sources(file_path="sources.txt"):
                 sources.append(line)
 
     return sources
-
+    
 
 def fetch_articles(sources):
     """Stáhne články ze všech RSS zdrojů."""
