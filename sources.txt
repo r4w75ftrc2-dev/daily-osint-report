@@ -1,0 +1,19 @@
+# Aviation
+https://www.aviation24.be/feed/
+https://www.flightglobal.com/rss
+https://www.ainonline.com/aviation-news/rss.xml
+
+# Airport
+https://www.airport-technology.com/feed/
+
+# Drone / UAV
+https://dronelife.com/feed/
+
+# Security
+https://www.schengenvisainfo.com/news/feed/
+https://www.europol.europa.eu/rss.xml
+
+# Czech
+https://www.policie.cz/rss.aspx
+https://www.mdcr.cz/rss
+Add initial RSS sources
