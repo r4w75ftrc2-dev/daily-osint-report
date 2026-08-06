@@ -2,16 +2,29 @@
 
 Datum: 06.08.2026
 
+
 ## HIGH RISK EVENTS
 
 
-### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
+### Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
+
+Originál:
+UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
 
 Kategorie:
 UAV
 
-Klíčová slova:
-drone
+Typ incidentu:
+UAV_AIRPORT_INCIDENT
+
+Riziko:
+HIGH
+
+Skóre:
+8
+
+Region:
+EUROPE
 
 Zdroj:
 https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
@@ -22,7 +35,10 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ## EUROPE UAV MONITORING
 
 
-### From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
+### Od továren na automobily k továrnám na drony: Francouzský výrobní tlak odráží globální posun
+
+Originál:
+From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
 
 Typ:
 UAV
@@ -39,7 +55,10 @@ https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/
 ---
 
 
-### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
+### Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
+
+Originál:
+UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
 
 Typ:
 UAV_AIRPORT_INCIDENT
@@ -55,492 +74,1195 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 ---
 
-- Air France launches new Caribbean route linking Guadeloupe with Panama City
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-launches-new-caribbean-route-linking-guadeloupe-with-panama-city/
 
+## ALL CATEGORIES
 
-- FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
-  Kategorie: AVIATION, SECURITY, GEOPOLITICS
-  Riziko: MEDIUM
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/
 
+### Air France launches new Caribbean route linking Guadeloupe with Panama City
 
-- Riyadh Air launches daily Mumbai flights as network expands to eight destinations
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airlines/riyadh-air/riyadh-air-launches-daily-mumbai-flights-as-network-expands-to-eight-destinations/
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Air India: Injured passengers discharged after severe turbulence on Phuket flight
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discharged-after-severe-turbulence-on-phuket-flight/
+Region:
+EUROPE
 
+Zdroj:
+https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-launches-new-caribbean-route-linking-guadeloupe-with-panama-city/
 
-- Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
-  Kategorie: UAV, AVIATION
-  Riziko: MEDIUM
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/
+---
 
 
-- Volaris carries 3.3 million passengers in July as load factor rises to 88%
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airlines/volaris/volaris-carries-3-3-million-passengers-in-july-as-load-factor-rises-to-88/
+### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
+Kategorie:
+GEOPOLITICS, AVIATION, SECURITY
 
-- Cathay Group doubles first-half profit, announces dividend and targets 150 aircraft expansion
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airlines/cathay-pacific/cathay-group-doubles-first-half-profit-announces-dividend-and-targets-150-aircraft-expansion/
+Riziko:
+MEDIUM
 
+Region:
+OTHER
 
-- Swedavia reports strong international growth as Stockholm Arlanda sets July passenger record
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airport-operator/swedavia/swedavia-reports-strong-international-growth-as-stockholm-arlanda-sets-july-passenger-record/
+Zdroj:
+https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/
 
+---
 
-- Emirates and South African Airways expand codeshare to nine more African destinations
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/airlines/emirates-airline/emirates-and-south-african-airways-expand-codeshare-to-nine-more-african-destinations/
 
+### Riyadh Air launches daily Mumbai flights as network expands to eight destinations
 
-- Bell secures $300 million contract to modernise US Marine Corps H-1 helicopter fleet
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.aviation24.be/manufacturers/bell-textron/bell-secures-300-million-contract-to-modernise-us-marine-corps-h-1-helicopter-fleet/
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Converting oils and fluids while you fly: The new frontier in aviation efficiency
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/sponsored/converting-oils-and-fluids-while-you-fly-the-new-frontier-in-aviation-efficiency/
+Region:
+OTHER
 
+Zdroj:
+https://www.aviation24.be/airlines/riyadh-air/riyadh-air-launches-daily-mumbai-flights-as-network-expands-to-eight-destinations/
 
-- Industry 4.0: putting a spotlight on the connector technology shaping the future
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/sponsored/industry-4-0-putting-a-spotlight-on-the-connector-technology-shaping-the-future/
+---
 
 
-- Helping to enable efficiencies in aviation through smarter fluids
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/sponsored/helping-to-enable-efficiencies-in-aviation-through-smarter-fluids/
+### Air India: Injured passengers discharged after severe turbulence on Phuket flight
 
+Kategorie:
+AVIATION
 
-- Thales to upgrade Panama AAC air traffic control centre
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/thales-panama-aac-air-traffic-control-centre/
+Riziko:
+LOW
 
+Region:
+EUROPE
 
-- Joby Aviation and Metropolis to establish 25 vertiports in US
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/joby-aviation-metropolis-vertiports-us/
+Zdroj:
+https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discharged-after-severe-turbulence-on-phuket-flight/
 
+---
 
-- US issues first national strategy for advanced air mobility sector
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/us-first-national-strategy-air-mobility-sector/
 
+### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
-- AAR to acquire Aircraft Reconfig Technologies
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
+Kategorie:
+AVIATION, UAV
 
+Riziko:
+MEDIUM
 
-- The 2025 Airport Technology Excellence Awards Winners Announced!
-  Kategorie: AVIATION, GEOPOLITICS
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/excellence-awards/excellence-awards-2025-winners-announced/
+Region:
+OTHER
 
+Zdroj:
+https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/
 
-- Wisk concludes initial flight of Generation 6 autonomous eVTOL
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/wisk-generation-6-autonomous-evtol/
+---
 
 
-- DevvStream and partners plan integrated platform to grow US SAF supply
-  Kategorie: AVIATION
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://www.airport-technology.com/news/devvstream-integrated-platform-us-saf-supply/
+### Volaris carries 3.3 million passengers in July as load factor rises to 88%
 
+Kategorie:
+AVIATION
 
-- From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
-  Kategorie: UAV
-  Riziko: MEDIUM
-  Region: EUROPE
-  Zdroj: https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Building Safer Drone Operations: Managing Fatigue, Workload, and Human Performance
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/05/safer-drone-operations-human-performance/
+Zdroj:
+https://www.aviation24.be/airlines/volaris/volaris-carries-3-3-million-passengers-in-july-as-load-factor-rises-to-88/
 
+---
 
-- China Tightens Drone Export Controls, Adding New Pressure to U.S. Supply Chains
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/05/china-drone-export-controls-us-manufacturers/
 
+### Cathay Group doubles first-half profit, announces dividend and targets 150 aircraft expansion
 
-- Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/04/counter-uas-investment-monava-funding/
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- How Autonomous Surface Vessels Helped the U.S. Navy Seize $81 Million in Cocaine
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
+Region:
+OTHER
 
+Zdroj:
+https://www.aviation24.be/airlines/cathay-pacific/cathay-group-doubles-first-half-profit-announces-dividend-and-targets-150-aircraft-expansion/
 
-- Department of War Launches Marketplace for Validated Counter-Drone Systems
-  Kategorie: UAV, GEOPOLITICS
-  Riziko: MEDIUM
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/
+---
 
 
-- Cleveland Clinic Launches First Long-Term U.S. Health System Drone Prescription Delivery Program
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/04/cleveland-clinic-launches-first-long-term-u-s-health-system-drone-prescription-delivery-program/
+### Swedavia reports strong international growth as Stockholm Arlanda sets July passenger record
 
+Kategorie:
+AVIATION
 
-- Va. County Takes Part in Study on Delivering AEDs to Patients
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/03/va-county-takes-part-in-study-on-delivering-aeds-to-patients/
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
-  Kategorie: UAV
-  Riziko: HIGH
-  Region: EUROPE
-  Zdroj: https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
+Zdroj:
+https://www.aviation24.be/airport-operator/swedavia/swedavia-reports-strong-international-growth-as-stockholm-arlanda-sets-july-passenger-record/
 
+---
 
-- Beyond the Rule: Preparing for the Operational Reality of BVLOS
-  Kategorie: UAV
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://dronelife.com/2026/08/03/part-108-bvlos-compliance/
 
+### Emirates and South African Airways expand codeshare to nine more African destinations
 
-- Opinion: Allowing Pre-Registration Could Improve the Traveller Experience Under the Entry/Exit System
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/opinion-allowing-pre-registration-could-improve-the-traveller-experience-under-the-entry-exit-system/
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- France Makes Online Visa Appointments Mandatory Worldwide
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://schengenvisainfo.com/news/france-makes-online-visa-appointments-mandatory-worldwide/
+Region:
+OTHER
 
+Zdroj:
+https://www.aviation24.be/airlines/emirates-airline/emirates-and-south-african-airways-expand-codeshare-to-nine-more-african-destinations/
 
-- Schengen Visa “Small Country Trick” Leads to Refusals, VFS Global Warns UAE Travelers
-  Kategorie: GEOPOLITICS
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/schengen-visa-small-country-trick-leads-to-refusals-vfs-global-warns-uae-travelers/
+---
 
 
-- EU Tightens Visa Rules for Russians, but ‘Golden Passports’ Keep Europe Open
-  Kategorie: GEOPOLITICS
-  Riziko: MEDIUM
-  Region: EUROPE
-  Zdroj: https://schengenvisainfo.com/news/eu-tightens-visa-rules-for-russians-but-golden-passports-keep-europe-open/
+### Bell secures $300 million contract to modernise US Marine Corps H-1 helicopter fleet
 
+Kategorie:
+AVIATION
 
-- EU Implements Ban on Multiple-Entry Schengen Visas for Russian Nationals
-  Kategorie: GEOPOLITICS
-  Riziko: MEDIUM
-  Region: EUROPE
-  Zdroj: https://schengenvisainfo.com/news/eu-implements-ban-on-multiple-entry-schengen-visas-for-russian-nationals/
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Portugal Cancels ALL Work-Seeking Visa Appointments Effective Immediately
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/portugal-cancels-all-work-seeking-visa-appointments-effective-immediately/
+Zdroj:
+https://www.aviation24.be/manufacturers/bell-textron/bell-secures-300-million-contract-to-modernise-us-marine-corps-h-1-helicopter-fleet/
 
+---
 
-- Seven Kosovo Nationals Stopped at Croatia-Serbia Border for Exceeding Schengen Stay Limits
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/seven-kosovo-nationals-stopped-at-croatia-serbia-border-for-exceeding-schengen-stay-limits/
 
+### Converting oils and fluids while you fly: The new frontier in aviation efficiency
 
-- EU Entry/Exit System Week One: Only 3 Countries Ready, Brussels Sees 3-Hour Queues
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://schengenvisainfo.com/news/eu-entry-exit-system-week-one-only-3-countries-ready-brussels-sees-3-hour-queues/
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- The 3 Best Schengen Calculators for the EES Era: Track 90/180 Days and Prevent Overstays
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/ees-live-best-schengen-calculators-to-track-your-stays/
+Region:
+OTHER
 
+Zdroj:
+https://www.airport-technology.com/sponsored/converting-oils-and-fluids-while-you-fly-the-new-frontier-in-aviation-efficiency/
 
-- Swiss Schengen Visa Applications in the US Now Through VFS Global
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: https://schengenvisainfo.com/news/swiss-schengen-visa-applications-in-the-us-now-through-vfs-global/
+---
 
 
-- Season 4 of The Europol Podcast available now
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
+### Industry 4.0: putting a spotlight on the connector technology shaping the future
 
+Kategorie:
+AVIATION
 
-- Europol-led action against nihilistic violent extremist network "The Com"
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Migrant smuggling network using rental cars dismantled across the Balkans
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
+Zdroj:
+https://www.airport-technology.com/sponsored/industry-4-0-putting-a-spotlight-on-the-connector-technology-shaping-the-future/
 
+---
 
-- Europol supports operation against amphetamine producers
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
 
+### Helping to enable efficiencies in aviation through smarter fluids
 
-- Europol and Frontex strengthen cooperation with new Working Arrangement
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Five arrests for smuggling migrants across the Bulgarian-Serbian green border
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
+Region:
+OTHER
 
+Zdroj:
+https://www.airport-technology.com/sponsored/helping-to-enable-efficiencies-in-aviation-through-smarter-fluids/
 
-- When violence shapes identities in a larger pool of perpetrators: new Europol terrorism report
-  Kategorie: SECURITY
-  Riziko: MEDIUM
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
+---
 
 
-- French-Spanish operation targets hazardous waste trafficking network: four arrested
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
+### Thales to upgrade Panama AAC air traffic control centre
 
+Kategorie:
+AVIATION
 
-- 28 arrests in international strike against child sexual exploitation
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Fact Check: Clarifying claims about Europol's operational processing environments
-  Kategorie: 
-  Riziko: LOW
-  Region: EUROPE
-  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
+Zdroj:
+https://www.airport-technology.com/news/thales-panama-aac-air-traffic-control-centre/
 
+---
 
-- Strakoničtí kriminalisté objasnili loupeže
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/strakonicti-kriminaliste-objasnili-loupeze.aspx
 
+### Joby Aviation and Metropolis to establish 25 vertiports in US
 
-- Řidič skončil převrácený v kolejišti
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/ridic-skoncil-prevraceny-v-kolejisti.aspx
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Pomozte ztotožnit nalezeného muže
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/pomozte-ztotoznit-nalezeneho-muze.aspx
+Region:
+OTHER
 
+Zdroj:
+https://www.airport-technology.com/news/joby-aviation-metropolis-vertiports-us/
 
-- Speciální oddělení dohledu posilují bezpečnost na hlavních silničních tazích
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/specialni-oddeleni-dohledu-posiluji-bezpecnost-na-hlavnich-silnicnich-tazich.aspx
+---
 
 
-- Kouzlo zážitků na vodě s námořnickou rozvahou!
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/kouzlo-zazitku-na-vode-s-namornickou-rozvahou.aspx
+### US issues first national strategy for advanced air mobility sector
 
+Kategorie:
+AVIATION
 
-- Osobní automobil havaroval u Starých Nechanic
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/osobni-automobil-havaroval-u-starych-nechanic.aspx
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Krádež elektrokola
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/kradez-elektrokola-818372.aspx
+Zdroj:
+https://www.airport-technology.com/news/us-first-national-strategy-air-mobility-sector/
 
+---
 
-- Dotaz k výjezdu na adresu
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/dotaz-k-vyjezdu-na-adresu-463263.aspx
 
+### AAR to acquire Aircraft Reconfig Technologies
 
-- Dotaz ke konkrétnímu spisu
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-797747.aspx
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Jízda na elektrokoloběžce bez helmy, ve dvou, pod vlivem alkoholu
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/jizda-na-elektrokolobezce-bez-helmy-ve-dvou-pod-vlivem-alkoholu.aspx
+Region:
+OTHER
 
+Zdroj:
+https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 
-- Akce zaměřená na drogy
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/akce-zamerena-na-drogy.aspx
+---
 
 
-- Dopravně bezpečnostní akce zaměřená na motorkáře
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/dopravne-bezpecnostni-akce-zamerena-na-motorkare-315143.aspx
+### The 2025 Airport Technology Excellence Awards Winners Announced!
 
+Kategorie:
+GEOPOLITICS, AVIATION
 
-- Úspěšně objasněný případ
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/uspesne-objasneny-pripad.aspx
+Riziko:
+LOW
 
+Region:
+OTHER
 
-- Řidič autobusu zabránil střetu s osobním vozidlem
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/ridic-autobusu-zabranil-stretu-s-osobnim-vozidlem.aspx
+Zdroj:
+https://www.airport-technology.com/excellence-awards/excellence-awards-2025-winners-announced/
 
+---
 
-- Nabídka pro zájemce o služební poměr u Policie ČR
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/nabidka-pro-zajemce-o-sluzebni-pomer-u-policie-cr.aspx
 
+### Wisk concludes initial flight of Generation 6 autonomous eVTOL
 
-- Technický pracovník – skupina technických činností
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/technicky-pracovnik-skupina-technickych-cinnosti.aspx
+Kategorie:
+AVIATION
 
+Riziko:
+LOW
 
-- Investiční referent – skupina stavební
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/investicni-referent-skupina-stavebni.aspx
+Region:
+OTHER
 
+Zdroj:
+https://www.airport-technology.com/news/wisk-generation-6-autonomous-evtol/
 
-- Hledáme 37letého muže s omezenou svéprávností
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/hledame-37leteho-muze-s-omezenou-svepravnosti.aspx
+---
 
 
-- Oznámení o možnosti převzít písemnost - Elias TIMMERMANS
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/oznameni-o-moznosti-prevzit-pisemnost-elias-timmermans.aspx
+### DevvStream and partners plan integrated platform to grow US SAF supply
 
+Kategorie:
+AVIATION
 
-- Mělničtí kriminalisté obvinili 4 dealery drog
-  Kategorie: 
-  Riziko: LOW
-  Region: OTHER
-  Zdroj: http://policie.gov.cz/clanek/melnicti-kriminaliste-obvinili-4-dealery-drog.aspx
+Riziko:
+LOW
 
+Region:
+OTHER
+
+Zdroj:
+https://www.airport-technology.com/news/devvstream-integrated-platform-us-saf-supply/
+
+---
+
+
+### From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
+
+Kategorie:
+UAV
+
+Riziko:
+MEDIUM
+
+Region:
+EUROPE
+
+Zdroj:
+https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/
+
+---
+
+
+### Building Safer Drone Operations: Managing Fatigue, Workload, and Human Performance
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/05/safer-drone-operations-human-performance/
+
+---
+
+
+### China Tightens Drone Export Controls, Adding New Pressure to U.S. Supply Chains
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/05/china-drone-export-controls-us-manufacturers/
+
+---
+
+
+### Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/04/counter-uas-investment-monava-funding/
+
+---
+
+
+### How Autonomous Surface Vessels Helped the U.S. Navy Seize $81 Million in Cocaine
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
+
+---
+
+
+### Department of War Launches Marketplace for Validated Counter-Drone Systems
+
+Kategorie:
+GEOPOLITICS, UAV
+
+Riziko:
+MEDIUM
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/
+
+---
+
+
+### Cleveland Clinic Launches First Long-Term U.S. Health System Drone Prescription Delivery Program
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/04/cleveland-clinic-launches-first-long-term-u-s-health-system-drone-prescription-delivery-program/
+
+---
+
+
+### Va. County Takes Part in Study on Delivering AEDs to Patients
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/03/va-county-takes-part-in-study-on-delivering-aeds-to-patients/
+
+---
+
+
+### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
+
+Kategorie:
+UAV
+
+Riziko:
+HIGH
+
+Region:
+EUROPE
+
+Zdroj:
+https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
+
+---
+
+
+### Beyond the Rule: Preparing for the Operational Reality of BVLOS
+
+Kategorie:
+UAV
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://dronelife.com/2026/08/03/part-108-bvlos-compliance/
+
+---
+
+
+### Opinion: Allowing Pre-Registration Could Improve the Traveller Experience Under the Entry/Exit System
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/opinion-allowing-pre-registration-could-improve-the-traveller-experience-under-the-entry-exit-system/
+
+---
+
+
+### France Makes Online Visa Appointments Mandatory Worldwide
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+https://schengenvisainfo.com/news/france-makes-online-visa-appointments-mandatory-worldwide/
+
+---
+
+
+### Schengen Visa “Small Country Trick” Leads to Refusals, VFS Global Warns UAE Travelers
+
+Kategorie:
+GEOPOLITICS
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/schengen-visa-small-country-trick-leads-to-refusals-vfs-global-warns-uae-travelers/
+
+---
+
+
+### EU Tightens Visa Rules for Russians, but ‘Golden Passports’ Keep Europe Open
+
+Kategorie:
+GEOPOLITICS
+
+Riziko:
+MEDIUM
+
+Region:
+EUROPE
+
+Zdroj:
+https://schengenvisainfo.com/news/eu-tightens-visa-rules-for-russians-but-golden-passports-keep-europe-open/
+
+---
+
+
+### EU Implements Ban on Multiple-Entry Schengen Visas for Russian Nationals
+
+Kategorie:
+GEOPOLITICS
+
+Riziko:
+MEDIUM
+
+Region:
+EUROPE
+
+Zdroj:
+https://schengenvisainfo.com/news/eu-implements-ban-on-multiple-entry-schengen-visas-for-russian-nationals/
+
+---
+
+
+### Portugal Cancels ALL Work-Seeking Visa Appointments Effective Immediately
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/portugal-cancels-all-work-seeking-visa-appointments-effective-immediately/
+
+---
+
+
+### Seven Kosovo Nationals Stopped at Croatia-Serbia Border for Exceeding Schengen Stay Limits
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/seven-kosovo-nationals-stopped-at-croatia-serbia-border-for-exceeding-schengen-stay-limits/
+
+---
+
+
+### EU Entry/Exit System Week One: Only 3 Countries Ready, Brussels Sees 3-Hour Queues
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+https://schengenvisainfo.com/news/eu-entry-exit-system-week-one-only-3-countries-ready-brussels-sees-3-hour-queues/
+
+---
+
+
+### The 3 Best Schengen Calculators for the EES Era: Track 90/180 Days and Prevent Overstays
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/ees-live-best-schengen-calculators-to-track-your-stays/
+
+---
+
+
+### Swiss Schengen Visa Applications in the US Now Through VFS Global
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://schengenvisainfo.com/news/swiss-schengen-visa-applications-in-the-us-now-through-vfs-global/
+
+---
+
+
+### Season 4 of The Europol Podcast available now
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
+
+---
+
+
+### Europol-led action against nihilistic violent extremist network "The Com"
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
+
+---
+
+
+### Migrant smuggling network using rental cars dismantled across the Balkans
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
+
+---
+
+
+### Europol supports operation against amphetamine producers
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
+
+---
+
+
+### Europol and Frontex strengthen cooperation with new Working Arrangement
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
+
+---
+
+
+### Five arrests for smuggling migrants across the Bulgarian-Serbian green border
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
+
+---
+
+
+### When violence shapes identities in a larger pool of perpetrators: new Europol terrorism report
+
+Kategorie:
+SECURITY
+
+Riziko:
+MEDIUM
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
+
+---
+
+
+### French-Spanish operation targets hazardous waste trafficking network: four arrested
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
+
+---
+
+
+### 28 arrests in international strike against child sexual exploitation
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
+
+---
+
+
+### Fact Check: Clarifying claims about Europol's operational processing environments
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+http://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
+
+---
+
+
+### Oznámení související s výskytem velké kočkovité šelmy
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/oznameni-souvisejici-s-vyskytem-velke-kockovite-selmy.aspx
+
+---
+
+
+### Překročení rychlosti v obci
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/zpravodajstvi-zpravodajstvi-khk-prekroceni-rychlosti-v-obci.aspx
+
+---
+
+
+### Dotaz ke konkrétnímu spisu
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-547716.aspx
+
+---
+
+
+### Strakoničtí kriminalisté objasnili loupeže
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/strakonicti-kriminaliste-objasnili-loupeze.aspx
+
+---
+
+
+### Řidič skončil převrácený v kolejišti
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/ridic-skoncil-prevraceny-v-kolejisti.aspx
+
+---
+
+
+### Pomozte ztotožnit nalezeného muže
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/pomozte-ztotoznit-nalezeneho-muze.aspx
+
+---
+
+
+### Speciální oddělení dohledu posilují bezpečnost na hlavních silničních tazích
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/specialni-oddeleni-dohledu-posiluji-bezpecnost-na-hlavnich-silnicnich-tazich.aspx
+
+---
+
+
+### Kouzlo zážitků na vodě s námořnickou rozvahou!
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/kouzlo-zazitku-na-vode-s-namornickou-rozvahou.aspx
+
+---
+
+
+### Osobní automobil havaroval u Starých Nechanic
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/osobni-automobil-havaroval-u-starych-nechanic.aspx
+
+---
+
+
+### Krádež elektrokola
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/kradez-elektrokola-818372.aspx
+
+---
+
+
+### Dotaz k výjezdu na adresu
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/dotaz-k-vyjezdu-na-adresu-463263.aspx
+
+---
+
+
+### Dotaz ke konkrétnímu spisu
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-797747.aspx
+
+---
+
+
+### Jízda na elektrokoloběžce bez helmy, ve dvou, pod vlivem alkoholu
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/jizda-na-elektrokolobezce-bez-helmy-ve-dvou-pod-vlivem-alkoholu.aspx
+
+---
+
+
+### Akce zaměřená na drogy
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/akce-zamerena-na-drogy.aspx
+
+---
+
+
+### Dopravně bezpečnostní akce zaměřená na motorkáře
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/dopravne-bezpecnostni-akce-zamerena-na-motorkare-315143.aspx
+
+---
+
+
+### Úspěšně objasněný případ
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/uspesne-objasneny-pripad.aspx
+
+---
+
+
+### Řidič autobusu zabránil střetu s osobním vozidlem
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/ridic-autobusu-zabranil-stretu-s-osobnim-vozidlem.aspx
+
+---
+
+
+### Nabídka pro zájemce o služební poměr u Policie ČR
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/nabidka-pro-zajemce-o-sluzebni-pomer-u-policie-cr.aspx
+
+---
+
+
+### Technický pracovník – skupina technických činností
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/technicky-pracovnik-skupina-technickych-cinnosti.aspx
+
+---
+
+
+### Investiční referent – skupina stavební
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/investicni-referent-skupina-stavebni.aspx
+
+---
