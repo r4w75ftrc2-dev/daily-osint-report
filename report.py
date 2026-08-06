@@ -4,7 +4,7 @@ from datetime import datetime
 
 def load_articles():
     with open(
-        "classified_articles.json",
+        "classified_articles_v2.json",
         "r",
         encoding="utf-8"
     ) as f:
