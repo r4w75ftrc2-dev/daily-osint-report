@@ -26,6 +26,10 @@ jobs:
         run: |
           python collector.py
           
+      - name: Classify articles
+        run: |
+          python classifier.py
+        
       - name: Save results
         run: |
           git config --global user.name "github-actions"
