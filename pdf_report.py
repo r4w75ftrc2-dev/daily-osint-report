@@ -8,6 +8,7 @@ from reportlab.platypus import (
 )
 
 from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 
 from reportlab.pdfbase import pdfmetrics
@@ -67,7 +68,28 @@ def create_pdf():
     styles = getSampleStyleSheet()
 
     for style in styles.byName.values():
-        style.fontName = "DejaVu"
+    style.fontName = "DejaVu"
+
+
+    high_style = styles["Heading2"].clone(
+    "HighStyle"
+    )
+
+    high_style.textColor = colors.red
+
+
+    medium_style = styles["Heading2"].clone(
+    "MediumStyle"
+    )
+
+    medium_style.textColor = colors.orange
+
+
+    uav_style = styles["Heading2"].clone(
+    "UAVStyle"
+    )
+
+    uav_style.textColor = colors.blue
 
 
     story = []
@@ -196,12 +218,33 @@ def create_pdf():
                 .strip()
             )
 
-            story.append(
-                Paragraph(
-                    text,
-                    styles["Heading2"]
-                )
+
+        if "HIGH" in text.upper():
+
+            style = high_style
+
+
+        elif "UAV" in text.upper():
+
+            style = uav_style
+
+
+        elif "MEDIUM" in text.upper():
+
+            style = medium_style
+
+
+        else:
+
+            style = styles["Heading2"]
+
+
+        story.append(
+            Paragraph(
+                text,
+                style
             )
+        )
 
         else:
 
