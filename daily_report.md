@@ -3,6 +3,40 @@
 Datum: 06.08.2026
 
 
+## EXECUTIVE SUMMARY
+
+
+
+🔴 HIGH RISK EVENTS:
+1
+
+🚁 EUROPE UAV MONITORING:
+2
+
+✈️ AVIATION EVENTS:
+20
+
+🇨🇿 CZECH EVENTS:
+0
+
+
+
+### Nejvýznamnější událost
+
+Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
+
+Riziko:
+HIGH
+
+Skóre:
+8
+
+Zdroj:
+https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
+
+---
+
+
 ## HIGH RISK EVENTS
 
 
@@ -98,7 +132,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-GEOPOLITICS, AVIATION, SECURITY
+AVIATION, SECURITY, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -149,7 +183,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 MEDIUM
@@ -370,7 +404,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-GEOPOLITICS, AVIATION
+AVIATION, GEOPOLITICS
 
 Riziko:
 LOW
@@ -506,7 +540,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -770,7 +804,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
+https://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
 
 ---
 
@@ -787,7 +821,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
+https://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
 
 ---
 
@@ -804,7 +838,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
+https://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
 
 ---
 
@@ -821,7 +855,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
+https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
 
 ---
 
@@ -838,7 +872,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
+https://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
 
 ---
 
@@ -855,7 +889,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
+https://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
 
 ---
 
@@ -872,7 +906,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
+https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
 
 ---
 
@@ -889,7 +923,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
+https://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
 
 ---
 
@@ -906,7 +940,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
+https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
 
 ---
 
@@ -923,7 +957,7 @@ Region:
 EUROPE
 
 Zdroj:
-http://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
+https://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
 
 ---
 
