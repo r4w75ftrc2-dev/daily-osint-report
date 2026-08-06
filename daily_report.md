@@ -132,7 +132,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-GEOPOLITICS, AVIATION, SECURITY
+SECURITY, GEOPOLITICS, AVIATION
 
 Riziko:
 MEDIUM
