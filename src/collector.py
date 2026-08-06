@@ -88,25 +88,13 @@ def save_articles(articles, filename="articles.json"):
             ensure_ascii=False,
             indent=4
         )
-    stats = {
-        "collected": len(articles),
-        "date": datetime.now().strftime("%d.%m.%Y")
-    }
 
-    with open(
-        "stats.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(
-            stats,
-            f,
-            ensure_ascii=False,
-            indent=4
-        )
     print(">>> articles.json ulozen")   
+    
 def save_stats(count):
     """Uloží statistiku sběru."""
+
+    print(">>> SPOUSTIM save_stats")
 
     stats = {
         "collected": count,
@@ -124,6 +112,8 @@ def save_stats(count):
             ensure_ascii=False,
             indent=4
         )
+
+    print(">>> stats.json ulozen")
         
 if __name__ == "__main__":
 
@@ -132,9 +122,9 @@ if __name__ == "__main__":
     articles = fetch_articles(sources)
 
     save_articles(articles)
-    
+
     save_stats(len(articles))
-    
+
     print("\n==========================")
     print(f"Nalezeno článků: {len(articles)}")
     print("Uloženo do articles.json")
