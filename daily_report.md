@@ -5,146 +5,6 @@ Datum: 06.08.2026
 ## HIGH RISK EVENTS
 
 
-### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
-
-Kategorie:
-AVIATION, SECURITY, GEOPOLITICS
-
-Klíčová slova:
-airport, aviation, incident, military, aircraft
-
-Zdroj:
-https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/
-
----
-
-
-### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
-
-Kategorie:
-AVIATION, UAV
-
-Klíčová slova:
-airline, aviation, airport, drone
-
-Zdroj:
-https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/
-
----
-
-
-### From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/
-
----
-
-
-### Building Safer Drone Operations: Managing Fatigue, Workload, and Human Performance
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/05/safer-drone-operations-human-performance/
-
----
-
-
-### China Tightens Drone Export Controls, Adding New Pressure to U.S. Supply Chains
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/05/china-drone-export-controls-us-manufacturers/
-
----
-
-
-### Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection
-
-Kategorie:
-UAV
-
-Klíčová slova:
-uas, drone
-
-Zdroj:
-https://dronelife.com/2026/08/04/counter-uas-investment-monava-funding/
-
----
-
-
-### How Autonomous Surface Vessels Helped the U.S. Navy Seize $81 Million in Cocaine
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
-
----
-
-
-### Department of War Launches Marketplace for Validated Counter-Drone Systems
-
-Kategorie:
-UAV, GEOPOLITICS
-
-Klíčová slova:
-war, drone
-
-Zdroj:
-https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/
-
----
-
-
-### Cleveland Clinic Launches First Long-Term U.S. Health System Drone Prescription Delivery Program
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/04/cleveland-clinic-launches-first-long-term-u-s-health-system-drone-prescription-delivery-program/
-
----
-
-
-### Va. County Takes Part in Study on Delivering AEDs to Patients
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/03/va-county-takes-part-in-study-on-delivering-aeds-to-patients/
-
----
-
-
 ### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
 
 Kategorie:
@@ -159,45 +19,17 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ---
 
 
-### Beyond the Rule: Preparing for the Operational Reality of BVLOS
-
-Kategorie:
-UAV
-
-Klíčová slova:
-drone
-
-Zdroj:
-https://dronelife.com/2026/08/03/part-108-bvlos-compliance/
-
----
-
-
-### When violence shapes identities in a larger pool of perpetrators: new Europol terrorism report
-
-Kategorie:
-SECURITY
-
-Klíčová slova:
-terrorism
-
-Zdroj:
-https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
-
----
-
-
 ## ALL CATEGORIES
 
 - Air France launches new Caribbean route linking Guadeloupe with Panama City (AVIATION)
 
-- FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport (AVIATION, SECURITY, GEOPOLITICS)
+- FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport (SECURITY, AVIATION, GEOPOLITICS)
 
 - Riyadh Air launches daily Mumbai flights as network expands to eight destinations (AVIATION)
 
 - Air India: Injured passengers discharged after severe turbulence on Phuket flight (AVIATION)
 
-- Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision (AVIATION, UAV)
+- Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision (UAV, AVIATION)
 
 - Volaris carries 3.3 million passengers in July as load factor rises to 88% (AVIATION)
 
@@ -289,6 +121,10 @@ https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-ide
 
 - Fact Check: Clarifying claims about Europol's operational processing environments ()
 
+- Strakoničtí kriminalisté objasnili loupeže ()
+
+- Řidič skončil převrácený v kolejišti ()
+
 - Pomozte ztotožnit nalezeného muže ()
 
 - Speciální oddělení dohledu posilují bezpečnost na hlavních silničních tazích ()
@@ -324,7 +160,3 @@ https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-ide
 - Oznámení o možnosti převzít písemnost - Elias TIMMERMANS ()
 
 - Mělničtí kriminalisté obvinili 4 dealery drog ()
-
-- Bezpečnostní pracovník ()
-
-- Dotaz ke statistice dopravních nehod ()
