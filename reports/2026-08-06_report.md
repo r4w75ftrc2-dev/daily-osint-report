@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-SECURITY, AVIATION, GEOPOLITICS
+SECURITY, GEOPOLITICS, AVIATION
 
 Riziko:
 MEDIUM
@@ -459,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-AVIATION, GEOPOLITICS
+GEOPOLITICS, AVIATION
 
 Riziko:
 LOW
