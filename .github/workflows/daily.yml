@@ -31,7 +31,7 @@ jobs:
 
       - name: Classify articles
         run: |
-          python classifier_v2.py
+          python src/classifier_v2.py
 
       - name: Create report
         run: |
