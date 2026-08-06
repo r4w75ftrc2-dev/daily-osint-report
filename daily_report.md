@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -1017,6 +1017,23 @@ https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-internatio
 ---
 
 
+### Připravte se i vy!
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/pripravte-se-i-vy.aspx
+
+---
+
+
 ### Odcizil babičce finanční hotovost a klíče od vozidla
 
 Kategorie:
@@ -1336,22 +1353,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/ridic-autobusu-zabranil-stretu-s-osobnim-vozidlem.aspx
-
----
-
-
-### Nabídka pro zájemce o služební poměr u Policie ČR
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/nabidka-pro-zajemce-o-sluzebni-pomer-u-policie-cr.aspx
 
 ---

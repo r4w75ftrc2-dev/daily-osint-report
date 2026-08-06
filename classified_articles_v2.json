@@ -4,7 +4,7 @@
         "link": "https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-million-passengers-in-first-seven-months-of-2026/",
         "published": "Thu, 06 Aug 2026 09:12:37 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747932",
+        "collected": "2026-08-06T10:07:23.986362",
         "categories": [
             "AVIATION"
         ],
@@ -22,14 +22,14 @@
         "link": "https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-save-cardiac-arrest-patient-in-sweden/",
         "published": "Thu, 06 Aug 2026 09:03:41 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747940",
+        "collected": "2026-08-06T10:07:23.986371",
         "categories": [
             "UAV",
             "AVIATION"
         ],
         "keywords": [
-            "drone",
-            "aviation"
+            "aviation",
+            "drone"
         ],
         "region": "EUROPE",
         "incident_type": "UAV_AIRPORT_INCIDENT",
@@ -41,7 +41,7 @@
         "link": "https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-launches-new-caribbean-route-linking-guadeloupe-with-panama-city/",
         "published": "Wed, 05 Aug 2026 20:36:10 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747944",
+        "collected": "2026-08-06T10:07:23.986374",
         "categories": [
             "AVIATION"
         ],
@@ -59,18 +59,18 @@
         "link": "https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/",
         "published": "Wed, 05 Aug 2026 20:28:41 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747946",
+        "collected": "2026-08-06T10:07:23.986377",
         "categories": [
             "SECURITY",
             "GEOPOLITICS",
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "aircraft",
             "military",
+            "incident",
             "aviation",
-            "incident"
+            "airport",
+            "aircraft"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -82,14 +82,14 @@
         "link": "https://www.aviation24.be/airlines/riyadh-air/riyadh-air-launches-daily-mumbai-flights-as-network-expands-to-eight-destinations/",
         "published": "Wed, 05 Aug 2026 20:17:59 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747948",
+        "collected": "2026-08-06T10:07:23.986381",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
             "aviation",
-            "airline",
-            "flight"
+            "flight",
+            "airline"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -101,14 +101,14 @@
         "link": "https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discharged-after-severe-turbulence-on-phuket-flight/",
         "published": "Wed, 05 Aug 2026 20:12:51 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747951",
+        "collected": "2026-08-06T10:07:23.986384",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
             "aviation",
-            "airline",
-            "flight"
+            "flight",
+            "airline"
         ],
         "region": "EUROPE",
         "incident_type": null,
@@ -120,16 +120,16 @@
         "link": "https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/",
         "published": "Wed, 05 Aug 2026 14:18:52 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747953",
+        "collected": "2026-08-06T10:07:23.986386",
         "categories": [
             "UAV",
             "AVIATION"
         ],
         "keywords": [
-            "drone",
-            "airport",
             "aviation",
-            "airline"
+            "airline",
+            "airport",
+            "drone"
         ],
         "region": "OTHER",
         "incident_type": "UAV_AIRPORT_INCIDENT",
@@ -141,7 +141,7 @@
         "link": "https://www.aviation24.be/airlines/volaris/volaris-carries-3-3-million-passengers-in-july-as-load-factor-rises-to-88/",
         "published": "Wed, 05 Aug 2026 13:54:18 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747955",
+        "collected": "2026-08-06T10:07:23.986389",
         "categories": [
             "AVIATION"
         ],
@@ -159,14 +159,14 @@
         "link": "https://www.aviation24.be/airlines/cathay-pacific/cathay-group-doubles-first-half-profit-announces-dividend-and-targets-150-aircraft-expansion/",
         "published": "Wed, 05 Aug 2026 12:25:48 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747957",
+        "collected": "2026-08-06T10:07:23.986392",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "aircraft",
             "aviation",
-            "airline"
+            "airline",
+            "aircraft"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -178,13 +178,13 @@
         "link": "https://www.aviation24.be/airport-operator/swedavia/swedavia-reports-strong-international-growth-as-stockholm-arlanda-sets-july-passenger-record/",
         "published": "Wed, 05 Aug 2026 12:17:56 +0000",
         "source": "https://www.aviation24.be/feed/",
-        "collected": "2026-08-06T09:32:24.747959",
+        "collected": "2026-08-06T10:07:23.986394",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "aviation"
+            "aviation",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -196,13 +196,13 @@
         "link": "https://www.airport-technology.com/sponsored/converting-oils-and-fluids-while-you-fly-the-new-frontier-in-aviation-efficiency/",
         "published": "Wed, 22 Jul 2026 16:57:14 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216128",
+        "collected": "2026-08-06T10:07:24.604512",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "aviation"
+            "aviation",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -214,7 +214,7 @@
         "link": "https://www.airport-technology.com/sponsored/industry-4-0-putting-a-spotlight-on-the-connector-technology-shaping-the-future/",
         "published": "Mon, 08 Jun 2026 09:28:07 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216135",
+        "collected": "2026-08-06T10:07:24.604521",
         "categories": [
             "AVIATION"
         ],
@@ -231,13 +231,13 @@
         "link": "https://www.airport-technology.com/sponsored/helping-to-enable-efficiencies-in-aviation-through-smarter-fluids/",
         "published": "Thu, 26 Mar 2026 15:51:49 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216139",
+        "collected": "2026-08-06T10:07:24.604524",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "aviation"
+            "aviation",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -249,7 +249,7 @@
         "link": "https://www.airport-technology.com/news/thales-panama-aac-air-traffic-control-centre/",
         "published": "Fri, 19 Dec 2025 15:13:03 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216141",
+        "collected": "2026-08-06T10:07:24.604527",
         "categories": [
             "AVIATION"
         ],
@@ -266,13 +266,13 @@
         "link": "https://www.airport-technology.com/news/joby-aviation-metropolis-vertiports-us/",
         "published": "Fri, 19 Dec 2025 15:09:39 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216143",
+        "collected": "2026-08-06T10:07:24.604530",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "aviation"
+            "aviation",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -284,7 +284,7 @@
         "link": "https://www.airport-technology.com/news/us-first-national-strategy-air-mobility-sector/",
         "published": "Thu, 18 Dec 2025 15:12:55 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216145",
+        "collected": "2026-08-06T10:07:24.604532",
         "categories": [
             "AVIATION"
         ],
@@ -301,7 +301,7 @@
         "link": "https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/",
         "published": "Thu, 18 Dec 2025 14:52:17 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216147",
+        "collected": "2026-08-06T10:07:24.604535",
         "categories": [
             "AVIATION"
         ],
@@ -319,14 +319,14 @@
         "link": "https://www.airport-technology.com/excellence-awards/excellence-awards-2025-winners-announced/",
         "published": "Thu, 18 Dec 2025 10:34:24 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216150",
+        "collected": "2026-08-06T10:07:24.604538",
         "categories": [
             "GEOPOLITICS",
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "war"
+            "war",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -338,13 +338,13 @@
         "link": "https://www.airport-technology.com/news/wisk-generation-6-autonomous-evtol/",
         "published": "Wed, 17 Dec 2025 14:16:25 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216152",
+        "collected": "2026-08-06T10:07:24.604541",
         "categories": [
             "AVIATION"
         ],
         "keywords": [
-            "airport",
-            "flight"
+            "flight",
+            "airport"
         ],
         "region": "OTHER",
         "incident_type": null,
@@ -356,7 +356,7 @@
         "link": "https://www.airport-technology.com/news/devvstream-integrated-platform-us-saf-supply/",
         "published": "Wed, 17 Dec 2025 14:08:48 +0000",
         "source": "https://www.airport-technology.com/feed/",
-        "collected": "2026-08-06T09:32:25.216154",
+        "collected": "2026-08-06T10:07:24.604543",
         "categories": [
             "AVIATION"
         ],
@@ -373,7 +373,7 @@
         "link": "https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/",
         "published": "Wed, 05 Aug 2026 14:53:06 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459494",
+        "collected": "2026-08-06T10:07:24.745075",
         "categories": [
             "UAV"
         ],
@@ -390,7 +390,7 @@
         "link": "https://dronelife.com/2026/08/05/safer-drone-operations-human-performance/",
         "published": "Wed, 05 Aug 2026 13:49:21 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459501",
+        "collected": "2026-08-06T10:07:24.745083",
         "categories": [
             "UAV"
         ],
@@ -407,7 +407,7 @@
         "link": "https://dronelife.com/2026/08/05/china-drone-export-controls-us-manufacturers/",
         "published": "Wed, 05 Aug 2026 13:17:29 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459504",
+        "collected": "2026-08-06T10:07:24.745086",
         "categories": [
             "UAV"
         ],
@@ -424,7 +424,7 @@
         "link": "https://dronelife.com/2026/08/04/counter-uas-investment-monava-funding/",
         "published": "Tue, 04 Aug 2026 15:46:54 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459506",
+        "collected": "2026-08-06T10:07:24.745089",
         "categories": [
             "UAV"
         ],
@@ -442,7 +442,7 @@
         "link": "https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/",
         "published": "Tue, 04 Aug 2026 15:14:49 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459508",
+        "collected": "2026-08-06T10:07:24.745092",
         "categories": [
             "UAV"
         ],
@@ -459,10 +459,10 @@
         "link": "https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/",
         "published": "Tue, 04 Aug 2026 14:30:00 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459510",
+        "collected": "2026-08-06T10:07:24.745094",
         "categories": [
-            "GEOPOLITICS",
-            "UAV"
+            "UAV",
+            "GEOPOLITICS"
         ],
         "keywords": [
             "drone",
@@ -478,7 +478,7 @@
         "link": "https://dronelife.com/2026/08/04/cleveland-clinic-launches-first-long-term-u-s-health-system-drone-prescription-delivery-program/",
         "published": "Tue, 04 Aug 2026 13:56:35 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459513",
+        "collected": "2026-08-06T10:07:24.745098",
         "categories": [
             "UAV"
         ],
@@ -495,7 +495,7 @@
         "link": "https://dronelife.com/2026/08/03/va-county-takes-part-in-study-on-delivering-aeds-to-patients/",
         "published": "Mon, 03 Aug 2026 16:07:35 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459515",
+        "collected": "2026-08-06T10:07:24.745100",
         "categories": [
             "UAV"
         ],
@@ -512,7 +512,7 @@
         "link": "https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/",
         "published": "Mon, 03 Aug 2026 15:53:29 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459517",
+        "collected": "2026-08-06T10:07:24.745103",
         "categories": [
             "UAV"
         ],
@@ -529,7 +529,7 @@
         "link": "https://dronelife.com/2026/08/03/part-108-bvlos-compliance/",
         "published": "Mon, 03 Aug 2026 13:00:50 +0000",
         "source": "https://dronelife.com/feed/",
-        "collected": "2026-08-06T09:32:25.459518",
+        "collected": "2026-08-06T10:07:24.745106",
         "categories": [
             "UAV"
         ],
@@ -546,7 +546,7 @@
         "link": "https://schengenvisainfo.com/news/opinion-allowing-pre-registration-could-improve-the-traveller-experience-under-the-entry-exit-system/",
         "published": "Wed, 04 Mar 2026 13:10:52 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913190",
+        "collected": "2026-08-06T10:07:25.379551",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -559,7 +559,7 @@
         "link": "https://schengenvisainfo.com/news/france-makes-online-visa-appointments-mandatory-worldwide/",
         "published": "Fri, 20 Feb 2026 14:43:23 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913197",
+        "collected": "2026-08-06T10:07:25.379579",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -572,7 +572,7 @@
         "link": "https://schengenvisainfo.com/news/schengen-visa-small-country-trick-leads-to-refusals-vfs-global-warns-uae-travelers/",
         "published": "Fri, 14 Nov 2025 10:13:18 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913199",
+        "collected": "2026-08-06T10:07:25.379583",
         "categories": [
             "GEOPOLITICS"
         ],
@@ -589,7 +589,7 @@
         "link": "https://schengenvisainfo.com/news/eu-tightens-visa-rules-for-russians-but-golden-passports-keep-europe-open/",
         "published": "Sat, 08 Nov 2025 22:08:01 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913202",
+        "collected": "2026-08-06T10:07:25.379586",
         "categories": [
             "GEOPOLITICS"
         ],
@@ -606,7 +606,7 @@
         "link": "https://schengenvisainfo.com/news/eu-implements-ban-on-multiple-entry-schengen-visas-for-russian-nationals/",
         "published": "Fri, 07 Nov 2025 19:17:28 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913203",
+        "collected": "2026-08-06T10:07:25.379588",
         "categories": [
             "GEOPOLITICS"
         ],
@@ -623,7 +623,7 @@
         "link": "https://schengenvisainfo.com/news/portugal-cancels-all-work-seeking-visa-appointments-effective-immediately/",
         "published": "Sun, 26 Oct 2025 14:28:39 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913205",
+        "collected": "2026-08-06T10:07:25.379591",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -636,7 +636,7 @@
         "link": "https://schengenvisainfo.com/news/seven-kosovo-nationals-stopped-at-croatia-serbia-border-for-exceeding-schengen-stay-limits/",
         "published": "Mon, 20 Oct 2025 08:46:01 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913207",
+        "collected": "2026-08-06T10:07:25.379594",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -649,7 +649,7 @@
         "link": "https://schengenvisainfo.com/news/eu-entry-exit-system-week-one-only-3-countries-ready-brussels-sees-3-hour-queues/",
         "published": "Sun, 19 Oct 2025 17:56:30 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913209",
+        "collected": "2026-08-06T10:07:25.379596",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -662,7 +662,7 @@
         "link": "https://schengenvisainfo.com/news/ees-live-best-schengen-calculators-to-track-your-stays/",
         "published": "Sun, 12 Oct 2025 09:43:16 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913211",
+        "collected": "2026-08-06T10:07:25.379599",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -675,7 +675,7 @@
         "link": "https://schengenvisainfo.com/news/swiss-schengen-visa-applications-in-the-us-now-through-vfs-global/",
         "published": "Wed, 08 Oct 2025 14:22:44 +0000",
         "source": "https://www.schengenvisainfo.com/news/feed/",
-        "collected": "2026-08-06T09:32:25.913213",
+        "collected": "2026-08-06T10:07:25.379602",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -688,7 +688,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/syrian-migrant-smugglers-arrested-in-coordinated-strike-in-germany-and-serbia",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731008",
+        "collected": "2026-08-06T10:07:26.337595",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -701,7 +701,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731021",
+        "collected": "2026-08-06T10:07:26.337607",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -714,7 +714,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731024",
+        "collected": "2026-08-06T10:07:26.337611",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -727,7 +727,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731027",
+        "collected": "2026-08-06T10:07:26.337614",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -740,7 +740,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731029",
+        "collected": "2026-08-06T10:07:26.337617",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -753,7 +753,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731032",
+        "collected": "2026-08-06T10:07:26.337620",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -766,7 +766,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731034",
+        "collected": "2026-08-06T10:07:26.337623",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -779,7 +779,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731037",
+        "collected": "2026-08-06T10:07:26.337626",
         "categories": [
             "SECURITY"
         ],
@@ -796,7 +796,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731039",
+        "collected": "2026-08-06T10:07:26.337630",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -809,7 +809,7 @@
         "link": "https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation",
         "published": "",
         "source": "https://www.europol.europa.eu/rss.xml",
-        "collected": "2026-08-06T09:32:27.731041",
+        "collected": "2026-08-06T10:07:26.337633",
         "categories": [],
         "keywords": [],
         "region": "EUROPE",
@@ -818,11 +818,24 @@
         "risk_level": "LOW"
     },
     {
+        "title": "Připravte se i vy!",
+        "link": "http://policie.gov.cz/clanek/pripravte-se-i-vy.aspx",
+        "published": "Thu, 06 Aug 2026 10:11:00 +0200",
+        "source": "https://www.policie.cz/rss.aspx",
+        "collected": "2026-08-06T10:07:27.584498",
+        "categories": [],
+        "keywords": [],
+        "region": "OTHER",
+        "incident_type": null,
+        "risk_score": 0,
+        "risk_level": "LOW"
+    },
+    {
         "title": "Odcizil babičce finanční hotovost a klíče od vozidla",
         "link": "http://policie.gov.cz/clanek/odcizil-babicce-financni-hotovost-a-klice-od-vozidla.aspx",
         "published": "Thu, 06 Aug 2026 10:11:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386861",
+        "collected": "2026-08-06T10:07:27.584506",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -835,7 +848,7 @@
         "link": "http://policie.gov.cz/clanek/oznameni-souvisejici-s-vyskytem-velke-kockovite-selmy.aspx",
         "published": "Thu, 06 Aug 2026 10:10:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386869",
+        "collected": "2026-08-06T10:07:27.584509",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -848,7 +861,7 @@
         "link": "http://policie.gov.cz/clanek/oznameni-o-moznosti-prevzit-pisemnost-hasan-seçme.aspx",
         "published": "Thu, 06 Aug 2026 10:05:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386871",
+        "collected": "2026-08-06T10:07:27.584512",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -861,7 +874,7 @@
         "link": "http://policie.gov.cz/clanek/zpravodajstvi-zpravodajstvi-khk-prekroceni-rychlosti-v-obci.aspx",
         "published": "Thu, 06 Aug 2026 09:59:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386873",
+        "collected": "2026-08-06T10:07:27.584515",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -874,7 +887,7 @@
         "link": "http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-547716.aspx",
         "published": "Thu, 06 Aug 2026 09:58:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386876",
+        "collected": "2026-08-06T10:07:27.584517",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -887,7 +900,7 @@
         "link": "http://policie.gov.cz/clanek/strakonicti-kriminaliste-objasnili-loupeze.aspx",
         "published": "Thu, 06 Aug 2026 09:40:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386877",
+        "collected": "2026-08-06T10:07:27.584520",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -900,7 +913,7 @@
         "link": "http://policie.gov.cz/clanek/ridic-skoncil-prevraceny-v-kolejisti.aspx",
         "published": "Thu, 06 Aug 2026 09:26:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386879",
+        "collected": "2026-08-06T10:07:27.584523",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -913,7 +926,7 @@
         "link": "http://policie.gov.cz/clanek/pomozte-ztotoznit-nalezeneho-muze.aspx",
         "published": "Thu, 06 Aug 2026 09:14:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386882",
+        "collected": "2026-08-06T10:07:27.584526",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -926,7 +939,7 @@
         "link": "http://policie.gov.cz/clanek/specialni-oddeleni-dohledu-posiluji-bezpecnost-na-hlavnich-silnicnich-tazich.aspx",
         "published": "Thu, 06 Aug 2026 09:00:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386884",
+        "collected": "2026-08-06T10:07:27.584528",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -939,7 +952,7 @@
         "link": "http://policie.gov.cz/clanek/kouzlo-zazitku-na-vode-s-namornickou-rozvahou.aspx",
         "published": "Thu, 06 Aug 2026 08:46:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386886",
+        "collected": "2026-08-06T10:07:27.584531",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -952,7 +965,7 @@
         "link": "http://policie.gov.cz/clanek/osobni-automobil-havaroval-u-starych-nechanic.aspx",
         "published": "Thu, 06 Aug 2026 08:31:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386888",
+        "collected": "2026-08-06T10:07:27.584534",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -965,7 +978,7 @@
         "link": "http://policie.gov.cz/clanek/kradez-elektrokola-818372.aspx",
         "published": "Thu, 06 Aug 2026 08:14:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386889",
+        "collected": "2026-08-06T10:07:27.584536",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -978,7 +991,7 @@
         "link": "http://policie.gov.cz/clanek/dotaz-k-vyjezdu-na-adresu-463263.aspx",
         "published": "Thu, 06 Aug 2026 08:09:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386891",
+        "collected": "2026-08-06T10:07:27.584539",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -991,7 +1004,7 @@
         "link": "http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-797747.aspx",
         "published": "Thu, 06 Aug 2026 08:04:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386893",
+        "collected": "2026-08-06T10:07:27.584541",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -1004,7 +1017,7 @@
         "link": "http://policie.gov.cz/clanek/jizda-na-elektrokolobezce-bez-helmy-ve-dvou-pod-vlivem-alkoholu.aspx",
         "published": "Thu, 06 Aug 2026 08:04:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386895",
+        "collected": "2026-08-06T10:07:27.584544",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -1017,7 +1030,7 @@
         "link": "http://policie.gov.cz/clanek/akce-zamerena-na-drogy.aspx",
         "published": "Thu, 06 Aug 2026 08:00:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386897",
+        "collected": "2026-08-06T10:07:27.584547",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -1030,7 +1043,7 @@
         "link": "http://policie.gov.cz/clanek/dopravne-bezpecnostni-akce-zamerena-na-motorkare-315143.aspx",
         "published": "Thu, 06 Aug 2026 07:54:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386899",
+        "collected": "2026-08-06T10:07:27.584549",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -1043,7 +1056,7 @@
         "link": "http://policie.gov.cz/clanek/uspesne-objasneny-pripad.aspx",
         "published": "Thu, 06 Aug 2026 07:03:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386901",
+        "collected": "2026-08-06T10:07:27.584552",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
@@ -1056,20 +1069,7 @@
         "link": "http://policie.gov.cz/clanek/ridic-autobusu-zabranil-stretu-s-osobnim-vozidlem.aspx",
         "published": "Wed, 05 Aug 2026 16:40:00 +0200",
         "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386903",
-        "categories": [],
-        "keywords": [],
-        "region": "OTHER",
-        "incident_type": null,
-        "risk_score": 0,
-        "risk_level": "LOW"
-    },
-    {
-        "title": "Nabídka pro zájemce o služební poměr u Policie ČR",
-        "link": "http://policie.gov.cz/clanek/nabidka-pro-zajemce-o-sluzebni-pomer-u-policie-cr.aspx",
-        "published": "Wed, 05 Aug 2026 15:40:00 +0200",
-        "source": "https://www.policie.cz/rss.aspx",
-        "collected": "2026-08-06T09:32:29.386905",
+        "collected": "2026-08-06T10:07:27.584554",
         "categories": [],
         "keywords": [],
         "region": "OTHER",
