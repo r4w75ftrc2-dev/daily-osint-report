@@ -1,20 +1,25 @@
 from reportlab.platypus import (
     SimpleDocTemplate,
     Paragraph,
-    Spacer
+    Spacer,
+    Table,
+    TableStyle,
+    PageBreak
 )
 
 from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.lib.pagesizes import A4
 
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 from datetime import datetime
+import json
 import os
 
 
 # ==========================
-# FONT SUPPORT
+# FONT
 # ==========================
 
 pdfmetrics.registerFont(
@@ -25,23 +30,37 @@ pdfmetrics.registerFont(
 )
 
 
+def load_articles():
+
+    with open(
+        "classified_articles_v2.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        return json.load(f)
+
+
+
 def create_pdf():
 
-    date = datetime.now().strftime("%Y-%m-%d")
+    date = datetime.now().strftime("%d.%m.%Y")
 
     os.makedirs(
         "reports",
         exist_ok=True
     )
 
+
     filename = (
-        f"reports/"
+        "reports/"
         f"Daily_Security_OSINT_Report_{date}.pdf"
     )
 
 
     doc = SimpleDocTemplate(
-        filename
+        filename,
+        pagesize=A4
     )
 
 
@@ -53,6 +72,104 @@ def create_pdf():
 
     story = []
 
+
+    articles = load_articles()
+
+
+    # ==========================
+    # TITULNÍ STRANA
+    # ==========================
+
+    story.append(
+        Paragraph(
+            "DAILY SECURITY OSINT REPORT",
+            styles["Title"]
+        )
+    )
+
+    story.append(
+        Spacer(1,20)
+    )
+
+
+    story.append(
+        Paragraph(
+            f"Datum: {date}",
+            styles["Heading2"]
+        )
+    )
+
+
+    story.append(
+        Paragraph(
+            "Aviation Security & UAV Monitoring",
+            styles["Heading3"]
+        )
+    )
+
+
+    story.append(
+        Spacer(1,30)
+    )
+
+
+    # ==========================
+    # STATISTIKA
+    # ==========================
+
+    high = sum(
+        1 for a in articles
+        if a.get("risk_level") == "HIGH"
+    )
+
+    uav = sum(
+        1 for a in articles
+        if (
+            a.get("region") == "EUROPE"
+            and "UAV" in a.get("categories", [])
+        )
+    )
+
+    aviation = sum(
+        1 for a in articles
+        if "AVIATION" in a.get("categories", [])
+    )
+
+
+    table_data = [
+        ["Kategorie", "Počet"],
+        ["HIGH RISK", str(high)],
+        ["EUROPE UAV", str(uav)],
+        ["AVIATION", str(aviation)]
+    ]
+
+
+    table = Table(
+        table_data,
+        colWidths=[200,80]
+    )
+
+
+    table.setStyle(
+        TableStyle(
+            [
+                ("FONT", (0,0), (-1,-1), "DejaVu"),
+                ("GRID", (0,0), (-1,-1), 0.5, None),
+            ]
+        )
+    )
+
+
+    story.append(table)
+
+    story.append(
+        PageBreak()
+    )
+
+
+    # ==========================
+    # OBSAH REPORTU
+    # ==========================
 
     with open(
         "daily_report.md",
@@ -67,18 +184,15 @@ def create_pdf():
 
         line = line.strip()
 
-
         if not line:
             continue
 
-
-        # Nadpisy
 
         if line.startswith("#"):
 
             text = (
                 line
-                .replace("#", "")
+                .replace("#","")
                 .strip()
             )
 
@@ -89,30 +203,7 @@ def create_pdf():
                 )
             )
 
-
-        # Odkazy
-
         else:
-
-            if line.startswith("Zdroj:"):
-
-                parts = line.split(
-                    ":",
-                    1
-                )
-
-                if len(parts) == 2:
-
-                    url = parts[1].strip()
-
-                    line = (
-                        "Zdroj: "
-                        f'<link href="{url}" '
-                        'color="blue">'
-                        f'{url}'
-                        '</link>'
-                    )
-
 
             story.append(
                 Paragraph(
@@ -123,10 +214,7 @@ def create_pdf():
 
 
         story.append(
-            Spacer(
-                1,
-                8
-            )
+            Spacer(1,8)
         )
 
 
@@ -138,6 +226,7 @@ def create_pdf():
     print(
         f"PDF created: {filename}"
     )
+
 
 
 if __name__ == "__main__":
