@@ -28,13 +28,13 @@ jobs:
           
       - name: Classify articles
         run: |
-          python classifier.py
+          python classifier_v2.py
       
       - name: Save classified results
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add classified_articles.json
+          git add classified_articles_v2.json
           git commit -m "Update classified articles" || exit 0
           git push
         
