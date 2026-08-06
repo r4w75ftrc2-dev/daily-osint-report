@@ -18,47 +18,72 @@ def create_report(articles):
 
     report = []
 
-    report.append(
-        "# Daily Security OSINT Report\n"
-    )
+    report.append("# Daily Security OSINT Report\n")
+    report.append(f"Datum: {today}\n")
+
+
+    # ==========================
+    # HIGH RISK
+    # ==========================
 
     report.append(
-        f"Datum: {today}\n"
+        "\n## HIGH RISK EVENTS\n"
     )
 
-    report.append(
-        "## HIGH RISK EVENTS\n"
-    )
+    high_found = False
 
     for article in articles:
+
         if article.get("risk_level") == "HIGH":
+
+            high_found = True
 
             article = translate_article(article)
 
-report.append(
-    f"""
-### {article.get('title_cs', article['title'])}
+            report.append(
+                f"""
+### {article.get('title_cs', article.get('title', ''))}
 
 Originál:
-{article['title']}
-
+{article.get('title', '')}
 
 Kategorie:
 {', '.join(article.get('categories', []))}
 
-Klíčová slova:
-{', '.join(article.get('keywords', []))}
+Typ incidentu:
+{article.get('incident_type', 'N/A')}
+
+Riziko:
+{article.get('risk_level', '')}
+
+Skóre:
+{article.get('risk_score', '')}
+
+Region:
+{article.get('region', '')}
 
 Zdroj:
-{article['link']}
+{article.get('link', '')}
 
 ---
 """
             )
 
+    if not high_found:
+        report.append(
+            "\nŽádné události s vysokým rizikem.\n"
+        )
+
+
+    # ==========================
+    # EUROPE UAV MONITORING
+    # ==========================
+
     report.append(
         "\n## EUROPE UAV MONITORING\n"
     )
+
+    uav_found = False
 
     for article in articles:
 
@@ -67,9 +92,16 @@ Zdroj:
             and "UAV" in article.get("categories", [])
         ):
 
+            uav_found = True
+
+            article = translate_article(article)
+
             report.append(
                 f"""
-### {article['title']}
+### {article.get('title_cs', article.get('title', ''))}
+
+Originál:
+{article.get('title', '')}
 
 Typ:
 {article.get('incident_type', 'UAV')}
@@ -87,21 +119,49 @@ Zdroj:
 """
             )
 
+    if not uav_found:
+        report.append(
+            "\nŽádné evropské UAV události.\n"
+        )
+
+
+    # ==========================
+    # ALL ARTICLES
+    # ==========================
+
+    report.append(
+        "\n## ALL CATEGORIES\n"
+    )
+
     for article in articles:
 
         report.append(
-    f"- {article['title']}\n"
-    f"  Kategorie: {', '.join(article.get('categories', []))}\n"
-    f"  Riziko: {article.get('risk_level', 'UNKNOWN')}\n"
-    f"  Region: {article.get('region', 'UNKNOWN')}\n"
-    f"  Zdroj: {article.get('link', '')}\n\n"
-)
+            f"""
+### {article.get('title', '')}
+
+Kategorie:
+{', '.join(article.get('categories', []))}
+
+Riziko:
+{article.get('risk_level', '')}
+
+Region:
+{article.get('region', '')}
+
+Zdroj:
+{article.get('link', '')}
+
+---
+"""
+        )
+
 
     with open(
         "daily_report.md",
         "w",
         encoding="utf-8"
     ) as f:
+
         f.write(
             "\n".join(report)
         )
