@@ -88,20 +88,20 @@ def create_pdf():
 
         else:
 
-    if line.startswith("Zdroj:"):
+            if line.startswith("Zdroj:"):
 
-        parts = line.split(":", 1)
+                parts = line.split(":", 1)
 
-        if len(parts) == 2:
+                if len(parts) == 2:
 
-            url = parts[1].strip()
+                    url = parts[1].strip()
 
-            line = (
-                f"Zdroj: "
-                f'<link href="{url}" color="blue">'
-                f"{url}"
-                f"</link>"
-            )
+                    line = (
+                        f"Zdroj: "
+                        f'<link href="{url}" color="blue">'
+                        f"{url}"
+                        f"</link>"
+                    )
 
     story.append(
         Paragraph(
