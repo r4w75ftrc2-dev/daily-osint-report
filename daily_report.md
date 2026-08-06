@@ -132,7 +132,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-GEOPOLITICS, SECURITY, AVIATION
+GEOPOLITICS, AVIATION, SECURITY
 
 Riziko:
 MEDIUM
@@ -792,6 +792,23 @@ https://schengenvisainfo.com/news/swiss-schengen-visa-applications-in-the-us-now
 ---
 
 
+### Syrian migrant smugglers arrested in coordinated strike in Germany and Serbia
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+EUROPE
+
+Zdroj:
+https://www.europol.europa.eu/media-press/newsroom/news/syrian-migrant-smugglers-arrested-in-coordinated-strike-in-germany-and-serbia
+
+---
+
+
 ### Season 4 of The Europol Podcast available now
 
 Kategorie:
@@ -941,23 +958,6 @@ EUROPE
 
 Zdroj:
 https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
-
----
-
-
-### Fact Check: Clarifying claims about Europol's operational processing environments
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-EUROPE
-
-Zdroj:
-https://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
 
 ---
 
