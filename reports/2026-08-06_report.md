@@ -158,6 +158,23 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ## ALL CATEGORIES
 
 
+### airBaltic carries record three million passengers in first seven months of 2026
+
+Kategorie:
+AVIATION
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-million-passengers-in-first-seven-months-of-2026/
+
+---
+
+
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
@@ -195,7 +212,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-GEOPOLITICS, AVIATION, SECURITY
+AVIATION, GEOPOLITICS, SECURITY
 
 Riziko:
 MEDIUM
@@ -307,23 +324,6 @@ OTHER
 
 Zdroj:
 https://www.aviation24.be/airport-operator/swedavia/swedavia-reports-strong-international-growth-as-stockholm-arlanda-sets-july-passenger-record/
-
----
-
-
-### Emirates and South African Airways expand codeshare to nine more African destinations
-
-Kategorie:
-AVIATION
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-https://www.aviation24.be/airlines/emirates-airline/emirates-and-south-african-airways-expand-codeshare-to-nine-more-african-destinations/
 
 ---
 
@@ -450,7 +450,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-GEOPOLITICS, AVIATION
+AVIATION, GEOPOLITICS
 
 Riziko:
 LOW
@@ -1042,6 +1042,23 @@ http://policie.gov.cz/clanek/oznameni-souvisejici-s-vyskytem-velke-kockovite-sel
 ---
 
 
+### Oznámení o možnosti převzít písemnost - Hasan SEÇME
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/oznameni-o-moznosti-prevzit-pisemnost-hasan-seçme.aspx
+
+---
+
+
 ### Překročení rychlosti v obci
 
 Kategorie:
@@ -1327,22 +1344,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/nabidka-pro-zajemce-o-sluzebni-pomer-u-policie-cr.aspx
-
----
-
-
-### Technický pracovník – skupina technických činností
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/technicky-pracovnik-skupina-technickych-cinnosti.aspx
 
 ---
