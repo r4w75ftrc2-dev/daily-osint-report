@@ -16,4 +16,3 @@ https://www.europol.europa.eu/rss.xml
 # Czech
 https://www.policie.cz/rss.aspx
 https://www.mdcr.cz/rss
-Add initial RSS sources
