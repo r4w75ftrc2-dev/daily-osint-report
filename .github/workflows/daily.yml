@@ -27,7 +27,7 @@ jobs:
 
       - name: Run collector
         run: |
-          python collector.py
+          python src/collector.py
 
       - name: Classify articles
         run: |
