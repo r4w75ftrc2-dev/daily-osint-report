@@ -132,6 +132,7 @@ if __name__ == "__main__":
     articles = fetch_articles(sources)
 
     save_articles(articles)
+    
     save_stats(len(articles))
     
     print("\n==========================")
