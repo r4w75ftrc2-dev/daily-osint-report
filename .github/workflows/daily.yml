@@ -45,6 +45,7 @@ jobs:
           git add articles.json
           git commit -m "Update collected articles" || exit 0
           git push
+          
       - name: Create report
         run: |
         python report.py
