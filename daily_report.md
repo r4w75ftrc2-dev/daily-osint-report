@@ -5,90 +5,6 @@ Datum: 06.08.2026
 ## HIGH RISK EVENTS
 
 
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
 ### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
 
 Kategorie:
@@ -101,129 +17,6 @@ Zdroj:
 https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
 
 ---
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
-
-
-## EUROPE UAV MONITORING
 
 
 ## EUROPE UAV MONITORING
@@ -270,7 +63,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
-  Kategorie: AVIATION, GEOPOLITICS, SECURITY
+  Kategorie: AVIATION, SECURITY, GEOPOLITICS
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/
@@ -291,7 +84,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
-  Kategorie: AVIATION, UAV
+  Kategorie: UAV, AVIATION
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/
@@ -438,7 +231,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - Department of War Launches Marketplace for Validated Counter-Drone Systems
-  Kategorie: GEOPOLITICS, UAV
+  Kategorie: UAV, GEOPOLITICS
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/
