@@ -1,6 +1,8 @@
 import json
 import os
+import glob
 import requests
+
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
@@ -16,6 +18,7 @@ def load_articles():
 
 
 articles = load_articles()
+
 
 high = sum(
     1 for a in articles
@@ -40,6 +43,7 @@ czech = sum(
     if "CZECH" in a.get("categories", [])
 )
 
+
 highest = None
 
 if articles:
@@ -48,10 +52,12 @@ if articles:
         key=lambda x: x.get("risk_score", 0)
     )
 
-headline = ""
+
+headline = "Bez významné události"
 
 if highest:
-    headline = highest.get("title", "")
+    headline = highest.get("title", headline)
+
 
 message = f"""🛡 DAILY SECURITY OSINT
 
@@ -62,18 +68,49 @@ message = f"""🛡 DAILY SECURITY OSINT
 
 Nejvýznamnější událost:
 {headline}
+
+📎 PDF report přiložen
 """
 
-url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
-response = requests.post(
-    url,
+# Najde poslední PDF report
+
+pdf_files = glob.glob(
+    "reports/*.pdf"
+)
+
+pdf_file = max(
+    pdf_files,
+    key=os.path.getmtime
+)
+
+
+# Odešle text
+
+requests.post(
+    f"https://api.telegram.org/bot{TOKEN}/sendMessage",
     json={
         "chat_id": CHAT_ID,
         "text": message
     }
-)
+).raise_for_status()
 
-response.raise_for_status()
 
-print("Telegram notification sent.")
+# Odešle PDF
+
+with open(pdf_file, "rb") as document:
+
+    response = requests.post(
+        f"https://api.telegram.org/bot{TOKEN}/sendDocument",
+        data={
+            "chat_id": CHAT_ID
+        },
+        files={
+            "document": document
+        }
+    )
+
+    response.raise_for_status()
+
+
+print("Telegram message and PDF sent.")
