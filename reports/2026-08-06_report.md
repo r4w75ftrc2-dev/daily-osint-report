@@ -104,7 +104,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ## EUROPE UAV MONITORING
 
 
-### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
 
 Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
@@ -124,7 +124,7 @@ https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-s
 ---
 
 
-### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### Od továren na automobily k továrnám na drony: Francouzský výrobní tlak odráží globální posun
 
 Originál:
 From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-AVIATION, GEOPOLITICS, SECURITY
+SECURITY, AVIATION, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-UAV, GEOPOLITICS
+GEOPOLITICS, UAV
 
 Riziko:
 MEDIUM
@@ -1336,22 +1336,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/jizda-na-elektrokolobezce-bez-helmy-ve-dvou-pod-vlivem-alkoholu.aspx
-
----
-
-
-### Akce zaměřená na drogy
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/akce-zamerena-na-drogy.aspx
 
 ---
