@@ -49,7 +49,7 @@ Zdroj:
 """
             )
 
-        report.append(
+    report.append(
         "\n## EUROPE UAV MONITORING\n"
     )
 
