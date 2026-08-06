@@ -55,7 +55,7 @@ Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Typ incidentu:
 UAV_AIRPORT_INCIDENT
@@ -187,7 +187,7 @@ https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-mill
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Riziko:
 HIGH
@@ -272,7 +272,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Riziko:
 MEDIUM
@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-UAV, GEOPOLITICS
+GEOPOLITICS, UAV
 
 Riziko:
 MEDIUM
