@@ -245,15 +245,43 @@ Zdroj:
         )
 
 
+        report_text = "\n".join(report)
+
+
+    # Aktuální report
+
     with open(
         "daily_report.md",
         "w",
         encoding="utf-8"
     ) as f:
 
-        f.write(
-            "\n".join(report)
-        )
+        f.write(report_text)
+
+
+    # Archivní kopie
+
+    import os
+
+    os.makedirs(
+        "reports",
+        exist_ok=True
+    )
+
+    archive_name = (
+        f"reports/"
+        f"{datetime.now().strftime('%Y-%m-%d')}"
+        f"_report.md"
+    )
+
+
+    with open(
+        archive_name,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        f.write(report_text)
 
 
 if __name__ == "__main__":
