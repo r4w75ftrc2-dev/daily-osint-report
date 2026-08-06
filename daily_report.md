@@ -21,6 +21,15 @@ Datum: 06.08.2026
 
 
 
+## ANALYST NOTE
+
+- Detekovány události s vysokou úrovní rizika. Doporučena zvýšená pozornost.
+
+- V evropském prostoru zaznamenáno 3 UAV událostí. Události vyžadují sledování z pohledu ochrany kritické infrastruktury a letištní bezpečnosti.
+
+- Zvýšený počet leteckých bezpečnostních událostí může indikovat potřebu detailnějšího vyhodnocení.
+
+
 ### Nejvýznamnější událost
 
 Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
@@ -212,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-AVIATION, GEOPOLITICS, SECURITY
+SECURITY, GEOPOLITICS, AVIATION
 
 Riziko:
 MEDIUM
@@ -450,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-AVIATION, GEOPOLITICS
+GEOPOLITICS, AVIATION
 
 Riziko:
 LOW
@@ -586,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-UAV, GEOPOLITICS
+GEOPOLITICS, UAV
 
 Riziko:
 MEDIUM
