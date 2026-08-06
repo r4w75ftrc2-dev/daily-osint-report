@@ -1017,6 +1017,23 @@ https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-internatio
 ---
 
 
+### Výzva pro vyvěšení na úřední desce –  Veronika Salantai
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/vyzva-pro-vyveseni-na-uredni-desce-veronika-salantai.aspx
+
+---
+
+
 ### Žádost o informace k učiněnému podání
 
 Kategorie:
