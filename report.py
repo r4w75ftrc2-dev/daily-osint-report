@@ -49,9 +49,36 @@ Zdroj:
 """
             )
 
-    report.append(
-        "\n## ALL CATEGORIES\n"
+        report.append(
+        "\n## EUROPE UAV MONITORING\n"
     )
+
+    for article in articles:
+
+        if (
+            article.get("region") == "EUROPE"
+            and "UAV" in article.get("categories", [])
+        ):
+
+            report.append(
+                f"""
+### {article['title']}
+
+Typ:
+{article.get('incident_type', 'UAV')}
+
+Riziko:
+{article.get('risk_level', '')}
+
+Skóre:
+{article.get('risk_score', '')}
+
+Zdroj:
+{article.get('link', '')}
+
+---
+"""
+            )
 
     for article in articles:
 
