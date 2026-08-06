@@ -163,10 +163,43 @@ def main():
         )
 
 
+# Aktualizace statistik
+
+    try:
+        with open(
+            "stats.json",
+            "r",
+            encoding="utf-8"
+        ) as f:
+            stats = json.load(f)
+
+    except FileNotFoundError:
+        stats = {}
+
+
+    stats["classified"] = len(result)
+    stats["skipped"] = stats.get(
+        "collected",
+        len(result)
+    ) - len(result)
+
+
+    with open(
+        "stats.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            stats,
+            f,
+            ensure_ascii=False,
+            indent=4
+        )
+
+
     print(
         f"Analyzed articles: {len(result)}"
     )
-
 
 if __name__ == "__main__":
     main()
