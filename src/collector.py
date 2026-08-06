@@ -24,16 +24,29 @@ def fetch_articles(sources):
     for source in sources:
         print(f"Načítám: {source}")
 
-        feed = feedparser.parse(source)
+        try:
+            feed = feedparser.parse(source)
 
-        for entry in feed.entries:
-            articles.append({
-                "title": entry.get("title", ""),
-                "link": entry.get("link", ""),
-                "published": entry.get("published", ""),
-                "source": source,
-                "collected": datetime.now().isoformat()
-            })
+            if not hasattr(feed, "entries"):
+                print(
+                    f"⚠️ Zdroj neobsahuje články: {source}"
+                )
+                continue
+
+            for entry in feed.entries:
+                articles.append({
+                    "title": entry.get("title", ""),
+                    "link": entry.get("link", ""),
+                    "published": entry.get("published", ""),
+                    "source": source,
+                    "collected": datetime.now().isoformat()
+                })
+
+        except Exception as e:
+            print(
+                f"⚠️ Chyba při načítání zdroje {source}: {e}"
+            )
+            continue
 
     return articles
 
