@@ -6,22 +6,33 @@ from reportlab.platypus import (
 
 from reportlab.lib.styles import getSampleStyleSheet
 
-from datetime import datetime
-
 from reportlab.pdfbase import pdfmetrics
-
 from reportlab.pdfbase.ttfonts import TTFont
+
+from datetime import datetime
+import os
+
+
+# ==========================
+# FONT
+# ==========================
 
 pdfmetrics.registerFont(
     TTFont(
         "DejaVu",
-        "DejaVuSans.ttf"
+        "fonts/DejaVuSans.ttf"
     )
 )
+
 
 def create_pdf():
 
     date = datetime.now().strftime("%Y-%m-%d")
+
+    os.makedirs(
+        "reports",
+        exist_ok=True
+    )
 
     filename = (
         f"reports/"
@@ -36,8 +47,9 @@ def create_pdf():
 
     styles = getSampleStyleSheet()
 
-for style in styles.byName.values():
-    style.fontName = "DejaVu"
+    for style in styles.byName.values():
+        style.fontName = "DejaVu"
+
 
     story = []
 
@@ -53,9 +65,19 @@ for style in styles.byName.values():
 
     for line in content.split("\n"):
 
+        line = line.strip()
+
+        if not line:
+            continue
+
+
         if line.startswith("#"):
 
-            text = line.replace("#", "").strip()
+            text = (
+                line
+                .replace("#", "")
+                .strip()
+            )
 
             story.append(
                 Paragraph(
@@ -79,7 +101,9 @@ for style in styles.byName.values():
         )
 
 
-    doc.build(story)
+    doc.build(
+        story
+    )
 
 
     print(
