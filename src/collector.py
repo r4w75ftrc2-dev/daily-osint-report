@@ -57,7 +57,7 @@ from datetime import datetime
 def save_stats(count):
     """Uloží statistiku sběru."""
 
-    print("UKLÁDÁM stats.json")
+    print(">>> SPOUSTIM save_stats")
 
     stats = {
         "collected": count,
@@ -76,7 +76,7 @@ def save_stats(count):
             indent=4
         )
 
-    print("stats.json vytvořen")
+    print(">>> stats.json ulozen")
 
 def save_articles(articles, filename="articles.json"):
     """Uloží články do JSON souboru."""
@@ -104,7 +104,7 @@ def save_articles(articles, filename="articles.json"):
             ensure_ascii=False,
             indent=4
         )
-        
+     print(">>> articles.json ulozen")   
 def save_stats(count):
     """Uloží statistiku sběru."""
 
