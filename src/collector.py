@@ -50,6 +50,33 @@ def fetch_articles(sources):
 
     return articles
 
+import json
+from datetime import datetime
+
+
+def save_stats_collected(count):
+    stats = {
+        "collected": count,
+        "date": datetime.now().strftime("%d.%m.%Y")
+    }
+
+    try:
+        with open(
+            "stats.json",
+            "w",
+            encoding="utf-8"
+        ) as f:
+            json.dump(
+                stats,
+                f,
+                ensure_ascii=False,
+                indent=2
+            )
+
+    except Exception as e:
+        print(
+            f"⚠️ Nelze uložit statistiku: {e}"
+        )
 
 def save_articles(articles, filename="articles.json"):
     """Uloží články do JSON souboru."""
@@ -61,7 +88,22 @@ def save_articles(articles, filename="articles.json"):
             ensure_ascii=False,
             indent=4
         )
+    stats = {
+        "collected": len(articles),
+        "date": datetime.now().strftime("%d.%m.%Y")
+    }
 
+    with open(
+        "stats.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            stats,
+            f,
+            ensure_ascii=False,
+            indent=4
+        )
 
 if __name__ == "__main__":
 
