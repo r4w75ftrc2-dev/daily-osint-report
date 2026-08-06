@@ -54,29 +54,29 @@ import json
 from datetime import datetime
 
 
-def save_stats_collected(count):
+def save_stats(count):
+    """Uloží statistiku sběru."""
+
+    print("UKLÁDÁM stats.json")
+
     stats = {
         "collected": count,
         "date": datetime.now().strftime("%d.%m.%Y")
     }
 
-    try:
-        with open(
-            "stats.json",
-            "w",
-            encoding="utf-8"
-        ) as f:
-            json.dump(
-                stats,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
-
-    except Exception as e:
-        print(
-            f"⚠️ Nelze uložit statistiku: {e}"
+    with open(
+        "stats.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            stats,
+            f,
+            ensure_ascii=False,
+            indent=4
         )
+
+    print("stats.json vytvořen")
 
 def save_articles(articles, filename="articles.json"):
     """Uloží články do JSON souboru."""
