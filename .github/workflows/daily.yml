@@ -25,6 +25,7 @@ jobs:
       - name: Run collector
         run: |
           python collector.py
+          
       - name: Save results
         run: |
           git config --global user.name "github-actions"
