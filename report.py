@@ -20,6 +20,95 @@ def create_report(articles):
 
     report.append("# Daily Security OSINT Report\n")
     report.append(f"Datum: {today}\n")
+    
+    # ==========================
+    # EXECUTIVE SUMMARY
+    # ==========================
+
+    high_count = sum(
+        1 for a in articles
+        if a.get("risk_level") == "HIGH"
+    )
+
+    uav_count = sum(
+        1 for a in articles
+        if (
+            a.get("region") == "EUROPE"
+            and "UAV" in a.get("categories", [])
+        )
+    )
+
+    aviation_count = sum(
+        1 for a in articles
+        if "AVIATION" in a.get("categories", [])
+    )
+
+    czech_count = sum(
+        1 for a in articles
+        if "CZECH" in a.get("categories", [])
+    )
+
+
+    report.append(
+        """
+## EXECUTIVE SUMMARY
+
+"""
+    )
+
+    report.append(
+        f"""
+🔴 HIGH RISK EVENTS:
+{high_count}
+
+🚁 EUROPE UAV MONITORING:
+{uav_count}
+
+✈️ AVIATION EVENTS:
+{aviation_count}
+
+🇨🇿 CZECH EVENTS:
+{czech_count}
+
+"""
+    )
+
+
+    # Nejvýznamnější událost
+
+    highest = None
+
+    if articles:
+        highest = max(
+            articles,
+            key=lambda x: x.get(
+                "risk_score",
+                0
+            )
+        )
+
+    if highest:
+
+        highest = translate_article(highest)
+
+        report.append(
+            f"""
+### Nejvýznamnější událost
+
+{highest.get('title_cs', highest.get('title', ''))}
+
+Riziko:
+{highest.get('risk_level', '')}
+
+Skóre:
+{highest.get('risk_score', '')}
+
+Zdroj:
+{highest.get('link', '')}
+
+---
+"""
+        )
 
 
     # ==========================
