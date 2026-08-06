@@ -32,7 +32,7 @@ Datum: 06.08.2026
 
 ### Nejvýznamnější událost
 
-Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 Riziko:
 HIGH
@@ -75,7 +75,7 @@ https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-s
 ---
 
 
-### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+### Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
 
 Originál:
 UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-GEOPOLITICS, SECURITY, AVIATION
+SECURITY, AVIATION, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -459,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-GEOPOLITICS, AVIATION
+AVIATION, GEOPOLITICS
 
 Riziko:
 LOW
@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
