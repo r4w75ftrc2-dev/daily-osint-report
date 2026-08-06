@@ -35,7 +35,7 @@ jobs:
 
       - name: Create report
         run: |
-          python report.py
+          python src/report.py
           
       - name: Create PDF
         run: |
