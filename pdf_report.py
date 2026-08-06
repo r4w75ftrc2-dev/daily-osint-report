@@ -8,6 +8,16 @@ from reportlab.lib.styles import getSampleStyleSheet
 
 from datetime import datetime
 
+from reportlab.pdfbase import pdfmetrics
+
+from reportlab.pdfbase.ttfonts import TTFont
+
+pdfmetrics.registerFont(
+    TTFont(
+        "DejaVu",
+        "DejaVuSans.ttf"
+    )
+)
 
 def create_pdf():
 
@@ -25,6 +35,9 @@ def create_pdf():
 
 
     styles = getSampleStyleSheet()
+
+for style in styles.byName.values():
+    style.fontName = "DejaVu"
 
     story = []
 
