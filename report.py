@@ -1,5 +1,6 @@
 import json
 from datetime import datetime
+from translator import translate_article
 
 
 def load_articles():
@@ -32,9 +33,15 @@ def create_report(articles):
     for article in articles:
         if article.get("risk_level") == "HIGH":
 
-            report.append(
-                f"""
-### {article['title']}
+            article = translate_article(article)
+
+report.append(
+    f"""
+### {article.get('title_cs', article['title'])}
+
+Originál:
+{article['title']}
+
 
 Kategorie:
 {', '.join(article.get('categories', []))}
