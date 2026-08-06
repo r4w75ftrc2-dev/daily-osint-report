@@ -14,7 +14,7 @@ import os
 
 
 # ==========================
-# FONT
+# FONT SUPPORT
 # ==========================
 
 pdfmetrics.registerFont(
@@ -67,9 +67,12 @@ def create_pdf():
 
         line = line.strip()
 
+
         if not line:
             continue
 
+
+        # Nadpisy
 
         if line.startswith("#"):
 
@@ -86,33 +89,44 @@ def create_pdf():
                 )
             )
 
+
+        # Odkazy
+
         else:
 
             if line.startswith("Zdroj:"):
 
-                parts = line.split(":", 1)
+                parts = line.split(
+                    ":",
+                    1
+                )
 
                 if len(parts) == 2:
 
                     url = parts[1].strip()
 
                     line = (
-                        f"Zdroj: "
-                        f'<link href="{url}" color="blue">'
-                        f"{url}"
-                        f"</link>"
+                        "Zdroj: "
+                        f'<link href="{url}" '
+                        'color="blue">'
+                        f'{url}'
+                        '</link>'
                     )
 
-    story.append(
-        Paragraph(
-            line,
-            styles["BodyText"]
-        )
-    )
+
+            story.append(
+                Paragraph(
+                    line,
+                    styles["BodyText"]
+                )
+            )
 
 
         story.append(
-            Spacer(1, 8)
+            Spacer(
+                1,
+                8
+            )
         )
 
 
