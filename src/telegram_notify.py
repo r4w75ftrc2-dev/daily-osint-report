@@ -68,8 +68,6 @@ message = f"""🛡 DAILY SECURITY OSINT
 
 Nejvýznamnější událost:
 {headline}
-
-📎 PDF report přiložen
 """
 
 
@@ -79,10 +77,13 @@ pdf_files = glob.glob(
     "reports/*.pdf"
 )
 
-pdf_file = max(
-    pdf_files,
-    key=os.path.getmtime
-)
+pdf_file = None
+
+if pdf_files:
+    pdf_file = max(
+        pdf_files,
+        key=os.path.getmtime
+    )
 
 
 # Odešle text
@@ -98,19 +99,28 @@ requests.post(
 
 # Odešle PDF
 
-with open(pdf_file, "rb") as document:
+if pdf_file:
 
-    response = requests.post(
-        f"https://api.telegram.org/bot{TOKEN}/sendDocument",
-        data={
-            "chat_id": CHAT_ID
-        },
-        files={
-            "document": document
-        }
+    with open(pdf_file, "rb") as document:
+
+        response = requests.post(
+            f"https://api.telegram.org/bot{TOKEN}/sendDocument",
+            data={
+                "chat_id": CHAT_ID
+            },
+            files={
+                "document": document
+            }
+        )
+
+        response.raise_for_status()
+
+else:
+
+    print(
+        "PDF report nebyl nalezen. "
+        "Odeslán pouze textový briefing."
     )
-
-    response.raise_for_status()
 
 
 print("Telegram message and PDF sent.")
