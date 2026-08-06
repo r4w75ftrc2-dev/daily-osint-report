@@ -8,8 +8,8 @@ from reportlab.platypus import (
 )
 
 from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
+from reportlab.lib import colors
 
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
@@ -67,29 +67,31 @@ def create_pdf():
 
     styles = getSampleStyleSheet()
 
+
     for style in styles.byName.values():
-    style.fontName = "DejaVu"
+        style.fontName = "DejaVu"
 
 
     high_style = styles["Heading2"].clone(
-    "HighStyle"
+        "HighStyle"
     )
 
     high_style.textColor = colors.red
 
 
     medium_style = styles["Heading2"].clone(
-    "MediumStyle"
+        "MediumStyle"
     )
 
     medium_style.textColor = colors.orange
 
 
     uav_style = styles["Heading2"].clone(
-    "UAVStyle"
+        "UAVStyle"
     )
 
     uav_style.textColor = colors.blue
+
 
 
     story = []
@@ -110,7 +112,7 @@ def create_pdf():
     )
 
     story.append(
-        Spacer(1,20)
+        Spacer(1, 20)
     )
 
 
@@ -131,7 +133,7 @@ def create_pdf():
 
 
     story.append(
-        Spacer(1,30)
+        Spacer(1, 30)
     )
 
 
@@ -144,6 +146,7 @@ def create_pdf():
         if a.get("risk_level") == "HIGH"
     )
 
+
     uav = sum(
         1 for a in articles
         if (
@@ -151,6 +154,7 @@ def create_pdf():
             and "UAV" in a.get("categories", [])
         )
     )
+
 
     aviation = sum(
         1 for a in articles
@@ -168,15 +172,26 @@ def create_pdf():
 
     table = Table(
         table_data,
-        colWidths=[200,80]
+        colWidths=[200, 80]
     )
 
 
     table.setStyle(
         TableStyle(
             [
-                ("FONT", (0,0), (-1,-1), "DejaVu"),
-                ("GRID", (0,0), (-1,-1), 0.5, None),
+                (
+                    "FONT",
+                    (0, 0),
+                    (-1, -1),
+                    "DejaVu"
+                ),
+                (
+                    "GRID",
+                    (0, 0),
+                    (-1, -1),
+                    0.5,
+                    colors.black
+                )
             ]
         )
     )
@@ -202,49 +217,57 @@ def create_pdf():
         content = f.read()
 
 
+
     for line in content.split("\n"):
 
         line = line.strip()
 
+
         if not line:
             continue
+
 
 
         if line.startswith("#"):
 
             text = (
                 line
-                .replace("#","")
+                .replace("#", "")
                 .strip()
             )
 
 
-        if "HIGH" in text.upper():
-
-            style = high_style
+            upper_text = text.upper()
 
 
-        elif "UAV" in text.upper():
+            if "HIGH" in upper_text:
 
-            style = uav_style
-
-
-        elif "MEDIUM" in text.upper():
-
-            style = medium_style
+                style = high_style
 
 
-        else:
+            elif "UAV" in upper_text:
 
-            style = styles["Heading2"]
+                style = uav_style
 
 
-        story.append(
-            Paragraph(
-                text,
-                style
+            elif "MEDIUM" in upper_text:
+
+                style = medium_style
+
+
+            else:
+
+                style = styles["Heading2"]
+
+
+
+            story.append(
+                Paragraph(
+                    text,
+                    style
+                )
             )
-        )
+
 
         else:
 
@@ -257,8 +280,12 @@ def create_pdf():
 
 
         story.append(
-            Spacer(1,8)
+            Spacer(
+                1,
+                8
+            )
         )
+
 
 
     doc.build(
