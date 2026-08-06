@@ -58,8 +58,38 @@ headline = "Bez významné události"
 if highest:
     headline = highest.get("title", headline)
 
+try:
+    with open(
+        "stats.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+        stats = json.load(f)
+
+except Exception:
+    stats = {}
+
+
+collected = stats.get(
+    "collected",
+    "?"
+)
+
+classified = stats.get(
+    "classified",
+    "?"
+)
+
+skipped = stats.get(
+    "skipped",
+    "?"
+)
 
 message = f"""🛡 DAILY SECURITY OSINT
+📊 Processing:
+RSS articles: {collected}
+Classified: {classified}
+Skipped: {skipped}
 
 🔴 HIGH RISK: {high}
 🚁 EU UAV: {uav}
