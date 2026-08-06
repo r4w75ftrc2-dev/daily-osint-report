@@ -5,6 +5,90 @@ Datum: 06.08.2026
 ## HIGH RISK EVENTS
 
 
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
 ### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
 
 Kategorie:
@@ -19,7 +103,164 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ---
 
 
-## ALL CATEGORIES
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+## EUROPE UAV MONITORING
+
+
+### From Car Factories to Drone Factories: France’s Manufacturing Push Reflects a Global Shift
+
+Typ:
+UAV
+
+Riziko:
+MEDIUM
+
+Skóre:
+5
+
+Zdroj:
+https://dronelife.com/2026/08/05/car-factories-drone-manufacturing/
+
+---
+
+
+### UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
+
+Typ:
+UAV_AIRPORT_INCIDENT
+
+Riziko:
+HIGH
+
+Skóre:
+8
+
+Zdroj:
+https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
+
+---
 
 - Air France launches new Caribbean route linking Guadeloupe with Panama City
   Kategorie: AVIATION
@@ -29,7 +270,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
-  Kategorie: SECURITY, GEOPOLITICS, AVIATION
+  Kategorie: AVIATION, GEOPOLITICS, SECURITY
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://www.aviation24.be/military-aircraft/u-s-marine-corps/faa-investigates-air-traffic-incident-involving-trumps-marine-one-near-reagan-national-airport/
@@ -50,7 +291,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
-  Kategorie: UAV, AVIATION
+  Kategorie: AVIATION, UAV
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://www.aviation24.be/airlines/explosive-laden-drone-discovered-at-leipzig-halle-airport-as-dhl-freighter-reports-mid-air-collision/
@@ -141,7 +382,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - The 2025 Airport Technology Excellence Awards Winners Announced!
-  Kategorie: GEOPOLITICS, AVIATION
+  Kategorie: AVIATION, GEOPOLITICS
   Riziko: LOW
   Region: OTHER
   Zdroj: https://www.airport-technology.com/excellence-awards/excellence-awards-2025-winners-announced/
@@ -197,7 +438,7 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 - Department of War Launches Marketplace for Validated Counter-Drone Systems
-  Kategorie: UAV, GEOPOLITICS
+  Kategorie: GEOPOLITICS, UAV
   Riziko: MEDIUM
   Region: OTHER
   Zdroj: https://dronelife.com/2026/08/04/department-of-war-counter-drone-marketplace/
@@ -305,70 +546,70 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/season-4-of-europol-podcast-available-now
 
 
 - Europol-led action against nihilistic violent extremist network "The Com"
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-led-action-against-nihilistic-violent-extremist-network-com
 
 
 - Migrant smuggling network using rental cars dismantled across the Balkans
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/migrant-smuggling-network-using-rental-cars-dismantled-across-balkans
 
 
 - Europol supports operation against amphetamine producers
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-supports-operation-against-amphetamine-producers
 
 
 - Europol and Frontex strengthen cooperation with new Working Arrangement
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/europol-and-frontex-strengthen-cooperation-new-working-arrangement
 
 
 - Five arrests for smuggling migrants across the Bulgarian-Serbian green border
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/five-arrests-for-smuggling-migrants-across-bulgarian-serbian-green-border
 
 
 - When violence shapes identities in a larger pool of perpetrators: new Europol terrorism report
   Kategorie: SECURITY
   Riziko: MEDIUM
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/when-violence-shapes-identities-in-larger-pool-of-perpetrators-new-europol-terrorism-report
 
 
 - French-Spanish operation targets hazardous waste trafficking network: four arrested
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/french-spanish-operation-targets-hazardous-waste-trafficking-network-four-arrested
 
 
 - 28 arrests in international strike against child sexual exploitation
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-international-strike-against-child-sexual-exploitation
 
 
 - Fact Check: Clarifying claims about Europol's operational processing environments
   Kategorie: 
   Riziko: LOW
   Region: EUROPE
-  Zdroj: http://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
+  Zdroj: https://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-claims-about-europols-operational-processing-environments
 
 
 - Strakoničtí kriminalisté objasnili loupeže
