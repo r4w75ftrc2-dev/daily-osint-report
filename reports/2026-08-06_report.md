@@ -8,10 +8,10 @@ Datum: 06.08.2026
 
 
 🔴 HIGH RISK EVENTS:
-1
+2
 
 🚁 EUROPE UAV MONITORING:
-2
+3
 
 ✈️ AVIATION EVENTS:
 20
@@ -23,7 +23,7 @@ Datum: 06.08.2026
 
 ### Nejvýznamnější událost
 
-Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
+Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
 
 Riziko:
 HIGH
@@ -32,12 +32,38 @@ Skóre:
 8
 
 Zdroj:
-https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-bvlos-drones-from-trials-to-scale/
+https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-save-cardiac-arrest-patient-in-sweden/
 
 ---
 
 
 ## HIGH RISK EVENTS
+
+
+### Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
+
+Originál:
+Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
+
+Kategorie:
+UAV, AVIATION
+
+Typ incidentu:
+UAV_AIRPORT_INCIDENT
+
+Riziko:
+HIGH
+
+Skóre:
+8
+
+Region:
+EUROPE
+
+Zdroj:
+https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-save-cardiac-arrest-patient-in-sweden/
+
+---
 
 
 ### Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
@@ -67,6 +93,26 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 
 
 ## EUROPE UAV MONITORING
+
+
+### Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
+
+Originál:
+Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
+
+Typ:
+UAV_AIRPORT_INCIDENT
+
+Riziko:
+HIGH
+
+Skóre:
+8
+
+Zdroj:
+https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-save-cardiac-arrest-patient-in-sweden/
+
+---
 
 
 ### Od továren na automobily k továrnám na drony: Francouzský výrobní tlak odráží globální posun
@@ -112,6 +158,23 @@ https://dronelife.com/2026/08/03/uk-airspace-concept-of-operations-aims-to-move-
 ## ALL CATEGORIES
 
 
+### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
+
+Kategorie:
+UAV, AVIATION
+
+Riziko:
+HIGH
+
+Region:
+EUROPE
+
+Zdroj:
+https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-save-cardiac-arrest-patient-in-sweden/
+
+---
+
+
 ### Air France launches new Caribbean route linking Guadeloupe with Panama City
 
 Kategorie:
@@ -132,7 +195,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-SECURITY, GEOPOLITICS, AVIATION
+GEOPOLITICS, AVIATION, SECURITY
 
 Riziko:
 MEDIUM
@@ -183,7 +246,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 MEDIUM
@@ -261,23 +324,6 @@ OTHER
 
 Zdroj:
 https://www.aviation24.be/airlines/emirates-airline/emirates-and-south-african-airways-expand-codeshare-to-nine-more-african-destinations/
-
----
-
-
-### Bell secures $300 million contract to modernise US Marine Corps H-1 helicopter fleet
-
-Kategorie:
-AVIATION
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-https://www.aviation24.be/manufacturers/bell-textron/bell-secures-300-million-contract-to-modernise-us-marine-corps-h-1-helicopter-fleet/
 
 ---
 
@@ -540,7 +586,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
