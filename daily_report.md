@@ -132,7 +132,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-AVIATION, SECURITY, GEOPOLITICS
+GEOPOLITICS, SECURITY, AVIATION
 
 Riziko:
 MEDIUM
@@ -404,7 +404,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-AVIATION, GEOPOLITICS
+GEOPOLITICS, AVIATION
 
 Riziko:
 LOW
@@ -540,7 +540,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-UAV, GEOPOLITICS
+GEOPOLITICS, UAV
 
 Riziko:
 MEDIUM
@@ -962,6 +962,23 @@ https://www.europol.europa.eu/media-press/newsroom/news/fact-check-clarifying-cl
 ---
 
 
+### Odcizil babičce finanční hotovost a klíče od vozidla
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/odcizil-babicce-financni-hotovost-a-klice-od-vozidla.aspx
+
+---
+
+
 ### Oznámení související s výskytem velké kočkovité šelmy
 
 Kategorie:
@@ -1281,22 +1298,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/technicky-pracovnik-skupina-technickych-cinnosti.aspx
-
----
-
-
-### Investiční referent – skupina stavební
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/investicni-referent-skupina-stavebni.aspx
 
 ---
