@@ -137,9 +137,17 @@ def main():
     result = []
 
     for article in articles:
+
+    try:
         result.append(
             analyze_article(article)
         )
+
+    except Exception as e:
+        print(
+            f"⚠️ Chyba při klasifikaci článku: {e}"
+        )
+        continue
 
 
     with open(
