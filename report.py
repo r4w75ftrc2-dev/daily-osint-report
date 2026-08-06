@@ -56,9 +56,12 @@ Zdroj:
     for article in articles:
 
         report.append(
-            f"- {article['title']} "
-            f"({', '.join(article.get('categories', []))})\n"
-        )
+    f"- {article['title']}\n"
+    f"  Kategorie: {', '.join(article.get('categories', []))}\n"
+    f"  Riziko: {article.get('risk_level', 'UNKNOWN')}\n"
+    f"  Region: {article.get('region', 'UNKNOWN')}\n"
+    f"  Zdroj: {article.get('link', '')}\n\n"
+)
 
     with open(
         "daily_report.md",
