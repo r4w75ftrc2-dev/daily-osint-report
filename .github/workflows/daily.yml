@@ -39,7 +39,7 @@ jobs:
           
       - name: Create PDF
         run: |
-          python pdf_report.py
+          python src/pdf_report.py
 
       - name: Send Telegram notification
         env:
