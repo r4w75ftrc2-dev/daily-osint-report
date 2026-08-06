@@ -32,7 +32,7 @@ Datum: 06.08.2026
 
 ### Nejvýznamnější událost
 
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Defibrilátor dodaný dronem pomáhá zachránit pacienta se zástavou srdce ve Švédsku
 
 Riziko:
 HIGH
@@ -55,7 +55,7 @@ Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Typ incidentu:
 UAV_AIRPORT_INCIDENT
@@ -187,7 +187,7 @@ https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-mill
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Riziko:
 HIGH
@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-SECURITY, GEOPOLITICS, AVIATION
+AVIATION, GEOPOLITICS, SECURITY
 
 Riziko:
 MEDIUM
@@ -272,7 +272,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-UAV, AVIATION
+AVIATION, UAV
 
 Riziko:
 MEDIUM
@@ -459,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-GEOPOLITICS, AVIATION
+AVIATION, GEOPOLITICS
 
 Riziko:
 LOW
@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-UAV, GEOPOLITICS
+GEOPOLITICS, UAV
 
 Riziko:
 MEDIUM
@@ -1017,6 +1017,23 @@ https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-internatio
 ---
 
 
+### Žádost o informace k učiněnému podání
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/zadost-o-informace-k-ucinenemu-podani-561680.aspx
+
+---
+
+
 ### Taktické cvičení ve Stříbře
 
 Kategorie:
@@ -1336,22 +1353,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-797747.aspx
-
----
-
-
-### Jízda na elektrokoloběžce bez helmy, ve dvou, pod vlivem alkoholu
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/jizda-na-elektrokolobezce-bez-helmy-ve-dvou-pod-vlivem-alkoholu.aspx
 
 ---
