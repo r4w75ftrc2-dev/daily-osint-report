@@ -55,7 +55,7 @@ Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Typ incidentu:
 UAV_AIRPORT_INCIDENT
@@ -187,7 +187,7 @@ https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-mill
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 HIGH
@@ -272,7 +272,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 MEDIUM
@@ -1017,6 +1017,40 @@ https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-internatio
 ---
 
 
+### Odprodej nepotřebného majetku - výpočetní technika vč. příslušenství
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/odprodej-nepotrebneho-majetku-vypocetni-technika-vc-prislusenstvi.aspx
+
+---
+
+
+### Odprodej nepotřebného majetku - spojovací technika
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/odprodej-nepotrebneho-majetku-spojovaci-technika.aspx
+
+---
+
+
 ### Připravte se i vy!
 
 Kategorie:
@@ -1319,39 +1353,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/dopravne-bezpecnostni-akce-zamerena-na-motorkare-315143.aspx
-
----
-
-
-### Úspěšně objasněný případ
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/uspesne-objasneny-pripad.aspx
-
----
-
-
-### Řidič autobusu zabránil střetu s osobním vozidlem
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/ridic-autobusu-zabranil-stretu-s-osobnim-vozidlem.aspx
 
 ---
