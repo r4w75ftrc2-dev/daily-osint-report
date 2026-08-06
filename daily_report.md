@@ -55,7 +55,7 @@ Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Typ incidentu:
 UAV_AIRPORT_INCIDENT
@@ -75,7 +75,7 @@ https://www.aviation24.be/drones/everdrone/drone-delivered-defibrillator-helps-s
 ---
 
 
-### Koncepce provozu britského vzdušného prostoru si klade za cíl přesunout drony BVLOS ze zkoušek do měřítka
+### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 Originál:
 UK Airspace Concept of Operations Aims to Move BVLOS Drones From Trials to Scale
@@ -187,7 +187,7 @@ https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-mill
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 HIGH
@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-AVIATION, SECURITY, GEOPOLITICS
+GEOPOLITICS, SECURITY, AVIATION
 
 Riziko:
 MEDIUM
@@ -272,7 +272,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 MEDIUM
@@ -459,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-AVIATION, GEOPOLITICS
+GEOPOLITICS, AVIATION
 
 Riziko:
 LOW
