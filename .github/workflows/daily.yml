@@ -36,6 +36,10 @@ jobs:
       - name: Create report
         run: |
           python report.py
+          
+      - name: Create PDF
+        run: |
+          python pdf_report.py
 
       - name: Save results
         run: |
