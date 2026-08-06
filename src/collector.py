@@ -104,7 +104,7 @@ def save_articles(articles, filename="articles.json"):
             ensure_ascii=False,
             indent=4
         )
-     print(">>> articles.json ulozen")   
+    print(">>> articles.json ulozen")   
 def save_stats(count):
     """Uloží statistiku sběru."""
 
