@@ -55,7 +55,7 @@ Originál:
 Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Typ incidentu:
 UAV_AIRPORT_INCIDENT
@@ -187,7 +187,7 @@ https://www.aviation24.be/airlines/airbaltic/airbaltic-carries-record-three-mill
 ### Drone-delivered defibrillator helps save cardiac arrest patient in Sweden
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 HIGH
@@ -221,7 +221,7 @@ https://www.aviation24.be/airlines/air-france-klm-group/air-france/air-france-la
 ### FAA investigates air traffic incident involving Trump’s Marine One near Reagan National Airport
 
 Kategorie:
-AVIATION, GEOPOLITICS, SECURITY
+SECURITY, GEOPOLITICS, AVIATION
 
 Riziko:
 MEDIUM
@@ -272,7 +272,7 @@ https://www.aviation24.be/airlines/air-india/air-india-injured-passengers-discha
 ### Explosive-laden drone discovered at Leipzig/Halle Airport as DHL freighter reports mid-air collision
 
 Kategorie:
-AVIATION, UAV
+UAV, AVIATION
 
 Riziko:
 MEDIUM
@@ -459,7 +459,7 @@ https://www.airport-technology.com/news/aar-aircraft-reconfig-technologies/
 ### The 2025 Airport Technology Excellence Awards Winners Announced!
 
 Kategorie:
-AVIATION, GEOPOLITICS
+GEOPOLITICS, AVIATION
 
 Riziko:
 LOW
@@ -595,7 +595,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -1336,22 +1336,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/dotaz-k-vyjezdu-na-adresu-463263.aspx
-
----
-
-
-### Dotaz ke konkrétnímu spisu
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-797747.aspx
 
 ---
