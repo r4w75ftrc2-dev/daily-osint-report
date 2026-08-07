@@ -2,11 +2,12 @@ name: Daily Security OSINT Collector
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    - cron: "45 5 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+# schedule test
 
 jobs:
   collect:
