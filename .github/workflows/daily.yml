@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
 # schedule test
-
 jobs:
   collect:
     runs-on: ubuntu-latest
