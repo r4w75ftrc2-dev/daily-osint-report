@@ -600,7 +600,7 @@ https://dronelife.com/2026/08/04/saildrone-usv-us-navy-cocaine-seizure/
 ### Department of War Launches Marketplace for Validated Counter-Drone Systems
 
 Kategorie:
-GEOPOLITICS, UAV
+UAV, GEOPOLITICS
 
 Riziko:
 MEDIUM
@@ -971,6 +971,57 @@ https://www.europol.europa.eu/media-press/newsroom/news/28-arrests-in-internatio
 ---
 
 
+### Majitelce oplatila druhou šanci na život
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/majitelce-oplatila-druhou-sanci-na-zivot.aspx
+
+---
+
+
+### Krádež bicí soupravy za desítky tisíc korun
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/kradez-bici-soupravy-za-desitky-tisic-korun.aspx
+
+---
+
+
+### „Hraju jen s kamarádem…“
+
+Kategorie:
+
+
+Riziko:
+LOW
+
+Region:
+OTHER
+
+Zdroj:
+http://policie.gov.cz/clanek/hraju-jen-s-kamaradem.aspx
+
+---
+
+
 ### Hořice čeká motocyklový svátek
 
 Kategorie:
@@ -1256,56 +1307,5 @@ OTHER
 
 Zdroj:
 http://policie.gov.cz/clanek/dotaz-ke-konkretnimu-spisu-547716.aspx
-
----
-
-
-### Strakoničtí kriminalisté objasnili loupeže
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/strakonicti-kriminaliste-objasnili-loupeze.aspx
-
----
-
-
-### Řidič skončil převrácený v kolejišti
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/ridic-skoncil-prevraceny-v-kolejisti.aspx
-
----
-
-
-### Pomozte ztotožnit nalezeného muže
-
-Kategorie:
-
-
-Riziko:
-LOW
-
-Region:
-OTHER
-
-Zdroj:
-http://policie.gov.cz/clanek/pomozte-ztotoznit-nalezeneho-muze.aspx
 
 ---
