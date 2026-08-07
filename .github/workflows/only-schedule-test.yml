@@ -1,0 +1,15 @@
+name: Only Schedule Test
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scheduled test
+        run: |
+          echo "Schedule works"
+          date
